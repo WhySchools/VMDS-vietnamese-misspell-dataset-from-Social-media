@@ -1,0 +1,1 @@
+# VFND-vietnamese-misspell-dataset
