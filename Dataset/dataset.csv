@@ -1,250 +1,247 @@
-STT,Wrong,Right
-0,gặt háy,gặt hái
-1,hộp tác,hợp tác 
-2,chổ,chỗ
-3,siu nét,siêu nét
-4,ÔTÔ CỦ ,ÔTÔ cũ
-5,không đủ tự cách,không đủ tư cách
-6,pưngpô,bưng bô
-7,dū tú cách,đủ tư cách
-8,sáng lạn,xán lạn
-9,Vẫn cho hoặc chốn ra đường nhiều,Vẫn cho hoặc trốn ra đường nhiều
-10,Nước giời nại còn pha nước cống,Nước trời lại còn pha nước cống
-11,sông Tô Nịch,sông Tô Lịch
-12,quy hoạch tràng lang,quy hoạch tràn lan
-13,chính sác ,chính xác 
-14,dân biểu liêng bang,dân biểu liên bang
-15,Chiên sư Ukraine,Chiến sự Ukraine
-16,vui vẽ,vui vẻ
-17,xô xác,xô xát
-18,cái tật sạo không bỏ,cái tật xạo không bỏ
-19,đầu ốc con người,đầu óc con người
-20,Bà nầy,Bà này
-21,Chen nhau đặc vé,Chen nhau đặt vé
-22,nguễn,nguyễn
-23,hà lội,hà nội
-24,Cái ông lầy nàm thơ,Cái ông này làm thơ
-25,Dẫn nước và ruộng,Dẫn nước vào ruộng
-26,sài lu không ăn thua gì,xài lu không ăn thua gì
-27,ní nuận,lý luận
-28,Đại biểu cuốc hội,Đại biểu quốc hội
-29,tât' cả mọi ngơi,tất cả mọi nơi
-30,thuối nát,thối nát
-31,Bộ Trưỡng,bộ trưởng
-32,Ai triệu trách nhiệm,Ai chịu trách nhiệm
-33,anh lả ai,anh là ai
-34,đóng phinh ,đóng phim
-35,vuọt ngục,vượt ngục
-36,comment sàm,comment xàm
-37,người hiểu xẽ nhìn ra,người hiểu sẽ nhìn ra
-38,sai ghon ,sài gòn
-39,chưởi ,chửi 
-40,giọng miền nâm,giọng miền nam
-41,hây hơn,hay hơn
-42,chần kảm,trầm cảm
-43,chan.kam,trầm cảm
-44,Giảm xuông,Giảm xuống
-45,Sử sự không còn gì để nói,Xử sự không còn gì để nói
-46,Thít  nhiều  thứ ,Thích nhiều thứ 
-47,sĩ nhục,sỉ nhục
-48,cường hôn,cưỡng hôn
-49,thẳng yêu râu xanh,thằng yêu râu xanh
-50, như vậ mới có nền văn minh, như vậy mới có nền văn minh
-51,Lấy cái lu trống lụt ,Lấy cái lu chống lụt 
-52,thỳ mọi biện minh bằng thườ,thì mọi biện minh bằng thừa
-53,Youtube thấy lời tục tỉu quá,Youtube thấy lời tục tĩu quá
-54,tuyên tuyền,tuyên truyền
-55,những tơ báo ,những tờ báo 
-56,chưa chín xác,chưa chính xác
-57,hã bạn,hả bạn
-58,nói chuyện nghe rất hòa hã,nói chuyện nghe rất hòa nhã
-59,hệ thống chính trị Mỷ ,hệ thống chính trị Mỹ
-60,nếu bị rát mong thì bạn nên dùng thuốc,nếu bị rát mông thì bạn nên dùng thuốc
-61,như thế lày,như thế này
-62,Tôi luôn ngưỡn mộ và ủng hộ,Tôi luôn ngưỡng mộ và ủng hộ
-63,sē cãm thâÿ vui hön,sẽ cảm thấy vui hơn
-64,tôi tự vo,tôi tự do
-65,sự đau khổ cua người,sự đau khổ của người
-66,đọc tài,độc tài
-67,độc sách,đọc sách
-68,Đặt tên cung cơm,Đặt tên cúng cơm
-69,lật đỗ,lật đổ
-70,mưu muội,ngu muội
-71,cùng nhau năm tay ,cùng nhau nắm tay 
-72,hảy suy nghỉ,hãy suy nghĩ
-73,lật đỏ xe,lật đổ xe
-74,người dân chống giặt,người dân chống giặc
-75,mời giặt vao nhà,mời giặc vào nhà
-76,mày còn binh nó nữa,mày còn bênh nó nữa
-77,có khã năng ,có khả năng 
-78,bệnh ung thư đi căn,bệnh ung thư di căn
-79,nó sẻ tự tan rả,nó sẽ tự tan rã
-80,lảm nhãn,lảm nhảm
-81,gian lặng phiếu,gian lận phiếu
-82,sắp tới bầu cử giữ mùa,sắp tới bầu cử giữa mùa
-83,zui zẻ,vui vẻ
-84,mot nagn lan,một ngàn lần
-85,bản tánh ích kĩ ,bản tánh ích kỷ
-86,bản tánh ích kĩ,bản tánh ích kỉ
-87,bản tánh ích kĩ ,bản tính ích kỷ 
-88,chú 7 bị yết sinh lý,chú 7 bị yếu sinh lý
-89,bể lớp xe,bể lốp xe
-90,ra lịnh,ra lệnh
-91,Lắy chồng,lấy chồng
-92,đễ trã nọ,để trả nợ
-93,Liên Xô củ,Liên Xô cũ
-94,vị lảnh tụ,vị lãnh tụ
-95,quá thô bao,quá thô bạo
-96,tên dặm tắc,tên dâm tặc
-97,ấu râm ,ấu dâm
-98,xấu hổ púa,xấu hổ quá
-99,hết y kiến ,hết ý kiến
-100,Ht lời để nói ,hết lời để nói
-101,lính mẽo,lính mỹ
-102,"đả lắm, sướng lỗ tai","đã lắm, sướng lỗ tai"
-103,nge anh nói chuyện ,nghe anh nói chuyện 
-104,muôn nem ,muôn năm
-105,kinh tỏm,kinh tởm
-106,tin buồn noan báo trên đài,tin buồn loan báo trên đài
-107,mùa nắg,mùa nắng
-108,cái chớt bất ngờ,cái chết bất ngờ
-109,cứ thíc đi,cứ thích đi
-110,giòng sông seine,dòng sông seine
-111,Đất thủ đô mắt hơn tokyo,Đất thủ đô mắc hơn tokyo
-112,quá hảo huyền,quá hão huyền
-113,hắn thường lói ,hắn thường nói
-114,mùa lày,mùa này
-115,xe ta boong boong,xe ta bon bon
-116,nghiện bài nì dồi,nghiện bài này rồi
-117,dai điệu của bài hát,giai điệu của bài hát
-118,làm sao thjếu mjk đc,làm sao thiếu mình được
-119,co mik ne ,có mình nè
-120,nút bạc cũa youtube,nút bạc của youtube
-121,trái bôm,trái bom
-122,zòg tròn,vòng tròn
-123,quân tao cái áo,quăng tao cái áo
-124,làm qen,làm quen
-125,cứ mặc kỵ,cứ mặc kệ
-126,coi quài mà ko chán,coi hoài mà không chán
-127,trái bơm,trái bom
-128,thic nge bài này,thích nghe bài này
-129,bị bệnh la,bị bệnh lạ
-130,cở hắn còn ngán tao,cỡ hắn còn ngán tao
-131,nguòi công khai tài sản,người công khai tài sản
-132,gần nữa đời người,gần nửa đời người
-133,thèm rỏ nhãi,thèm rỏ dãi
-134,xài tiền măt,xài tiền mặt
-135,lưới trời lồng lỗng,lưới trời lồng lộng
-136,bảo vệ kỷ chứ máy ổng mò wa nửa,bảo vệ kỹ chứ mấy ổng mò qua nữa
-137,mầy ăn kẹo,mày ăn kẹo
-138,kêu họ bình tỉnh lại đi,kêu họ bình tĩnh lại đi
-139,bớt nhãm đi em,bớt nhảm đi em
-140,sồng phặng,sòng phẳng
-141,cần uống bia khog?,cần uống bia không?
-142,mõi miệng,mỏi miệng
-143,ba già,bà già
-144,ăn cấp vặt,ăn cắp vặt
-145,mí đại gia bên Việt Nam,mấy đại gia bên Việt Nam
-146,ửa tiền,rửa tiền
-147,không rút vốn cho le là sẽ bây hết chong này mai,không rút vốn cho lẹ là sẽ bay hết trong nay mai
-148,mua dưới nữa triệu đô,mua dưới nửa triệu đô
-149,cái mall cảu anh sao rồi,cái mall của anh sao rồi
-150,bi sở thuế vụ gõ cửa,bị sở thuế vụ gõ cửa
-151,mua bất động sảng,mua bất động sản
-152,xúi nguòi ta,xúi người ta
-153,hãy tự vuong lên ,hãy tự vươn lên 
-154,chổ đứng,chỗ đứng
-155,vịt ngang,vịt ngan
-156,đồng chấy đã bị lộ,đồng chí đã bị lộ
-157,chó dữ nhà,chó giữ nhà
-158,bệnh tân thần,bệnh tâm thần
-159,sâu thẩm,sâu thẳm
-160,giờ tao đở nhiều,giờ tao đỡ nhiều
-161,không giám trả lời,không dám trả lời
-162,chiến sỉ tiền tuyến,chiến sĩ tiền tuyến
-163,nhìn lanh lùng quá,nhìn lạnh lùng quá
-164,ko gián film,không dán film
-165,Cách âm triệt để xẽ gây nóng máy,Cách âm triệt để sẽ gây nóng máy
-166,rỉ xét,rỉ sét
-167,chi sẻ kiến thức,chia sẻ kiến thức
-168,họ chỉ gian kinh cảnh cửa,họ chỉ dán kính cánh cửa
-169,tầm nhìn rỏ,tầm nhìn rõ
-170,Trời lạnh lả do chênh nhiệt,Trời lạnh là do chênh nhiệt
-171,như bác đề cấp đó,như bác đề cập đó
-172,chùi rữa gầm,chùi rửa gầm
-173,mùa đông cũng có tuyết và phải rãi muối xuống đường,mùa đông cũng có tuyết và phải rải muối xuống đường
-174,gầm xe rĩ sét,gầm xe rỉ sét
-175,mà giỏi zậy,mà giỏi vậy
-176,chót phủ gầm rồi thì sửa sao,trót phủ gầm rồi thì sửa sao
-177,bên ngoai chẳng giải quet đựoc,bên ngoài chẳng giải quyết được
-178,Dân giàu chỉ xữ dụng,Dân giàu chỉ sử dụng
-179,"lớp sơn phủ mới nó có giòn, vong tróc sau một thời gian ","lớp sơn phủ mới nó có giòn, bong tróc sau một thời gian "
-180,gầm bị bám bùn đất củng dể xịt rửa nửa bạn,gầm bị bám bùn đất cũng dễ xịt rửa nữa bạn
-181,đáy cũng là bài học,đấy cũng là bài học
-182,bị rĩ sét,bị rỉ sét
-183,đỗ thừa,đổ thừa
-184,chống buôn lâu ,chống buôn lậu
-185,E cx đồng quan điểm ,Em cũng đồng quan điểm 
-186,mòn láng con,mòn láng coóng
-187,nhàm trán,nhàm chán
-188,Tôi không có xe nhưng vẫn mủ hộ kinh,Tôi không có xe nhưng vẫn ủng hộ kênh
-189,Hình anh rõ lét,Hình ảnh rõ nét
-190,A nên làm từng loại cụ thể và bảo gia sơ lực,Anh nên làm từng loại cụ thể và báo giá sơ lược
-191,có pho biến,có phổ biến 
-192,Video rất bỗ ích,Video rất bổ ích
-193,cứ 5-8 vạn là bán mu xe mới,cứ 5-8 vạn là bán mua xe mới 
-194,sữa chửa dễ khg anh ?,sửa chữa dễ không anh?
-195,khi duy chuyển thi hoat dong binh thường,khi di chuyển thì hoạt động bình thường
-196,xe tui củng đả bệnh cảm cúm như thế nầy,xe tui cũng đã bệnh cảm cúm như thế này
-197,Xin hỏi ad làm xe ở gala nào,Xin hỏi ad làm xe ở gara nào
-198,xe đg nô máy có tiêng kêu rè re rồi lai ngắt qoang r lai kêu là bênh gì ha anh,xe đang nổ máy có tiếng kêu rè rè rồi lại ngắt quãng rồi lại kêu là bệnh gì hả anh
-199,đẫ kiêm tra hãng  k ra bệnh,đã kiểm tra hãng không ra bệnh
-200,Xe số tự động khi vào số bị dật,Xe số tự động khi vào số bị giật
-201,xỉn bạn tư vấn thêm,xin bạn tư vấn thêm
-202,kêu gột soạt,kêu sột soạt
-203,còn hơn đi bảo vì mấy thằng đá banh,còn hơn đi bão vì mấy thằng đá banh
-204,hy vọng Trump tái đắt cử ,hy vọng Trump tái đắc cử 
-205,toi cin phep,tôi xin phép
-206,còn đãng viên,còn đảng viên
-207,côn an,công an
-208,bại đat chuyen chỗ nào,bịa đặt chuyện chỗ nào
-209,làm được nhiều trương trình hay,làm được nhiều chương trình hay
-210,nhiều cảnh thee lương,nhiều cảnh thê lương
-211,Mún bình luận lắm,Muốn bình luận lắm
-212,đang rất con ngu muội,đang rất còn ngu muội
-213,anh lúc nào diển giải củng vui có lúc chưởi thẳng,anh lúc nào diễn giải cũng vui có lúc chửi thẳng
-214,Không ai chüī,Không ai chửi
-215,Quá muổn rùi ,Quá muộn rồi
-216,chia sẽ chính xát,chia sẻ chính xác
-217,sợ bị lụm thí mẹ lun,sợ bị lượm thấy mẹ luôn
-218,"lặn sâu, thở khẻ","lặn sâu, thở khẽ"
-219,chán thấy ge,chán thấy ghê
-220,cười muốn sản,cười muốn sảng
-221,chính xác gê,chính xác ghê
-222,xào quyệt mưu mô,xảo quyệt mưu mô
-223,Giờ thì hiểu gòi,Giờ thì hiểu rồi
-224,quàng hậu chửi bậy,hoàng hậu chửi bậy
-225,còn muốn bẽ răng cọp,còn muốn bẻ răng cọp
-226,cuoi siu luon,cười xỉu luôn
-227,cô giáo tui côi anh,cô giáo tui coi anh
-228,kêu các em lên xem,kêu các em nên xem
-229,lúc đó ngạo mạng lắm,lúc đó ngạo mạn lắm
-230,có giỏi hàng độg,có giỏi hành động
-231,người khổ điem trên đầu ngón tay,người khổ đếm trên đầu ngón tay
-232,tôi cười dụng rốn,tôi cười rụng rốn
-233,"quýt làm, cam chịu đoàn","quýt làm, cam chịu đòn"
-234,Cha trả,Cha chả
-235,nói năng hay ca hát đều hoà huyện,nói năng hay ca hát đều hoà quyện
-236,việc gì đều chia sẽ,việc gì đều chia sẻ
-237,dủng rồi đó em ,đúng rồi đó em 
-238,Xác ốp Ai Cập ,Xác ướp Ai Cập 
-239,chúc vui vẽ,chúc vui vẻ
-240,song phẳng,sòng phẳng
-241,bốp băng thông,bóp băng thông
-242,người tháo giác lanh lợi,người tháo vác lanh lợi
-243,Chúc anh bình an mỏi ngày,Chúc anh bình an mỗi ngày
-244,ai cũng ứng hộ,ai cũng ủng hộ
-245,phải chái đúng sai,phải trái đúng sai
-246,anh đàm luộn về lẽ phải,anh đàm luận về lẽ phải
-247,ca dỡ quá,ca dở quá
-248,hướng vẫn làm việc,hướng dẫn làm việc
+STT,WRONG,RIGHT
+0,chính sác ,chính xác 
+1,dân biểu liêng bang,dân biểu liên bang
+2,chiên sư ukraine,chiến sự ukraine
+3,vui vẽ,vui vẻ
+4,xô xác,xô xát
+5,cái tật sạo không bỏ,cái tật xạo không bỏ
+6,đầu ốc con người,đầu óc con người
+7,bà nầy,bà này
+8,chen nhau đặc vé,chen nhau đặt vé
+9,nguễn,nguyễn
+10,hà lội,hà nội
+11,cái ông lầy nàm thơ,cái ông này làm thơ
+12,dẫn nước và ruộng,dẫn nước vào ruộng
+13,sài lu không ăn thua gì,xài lu không ăn thua gì
+14,ní nuận,lý luận
+15,đại biểu cuốc hội,đại biểu quốc hội
+16,tât' cả mọi ngơi,tất cả mọi nơi
+17,thuối nát,thối nát
+18,bộ trưỡng,bộ trưởng
+19,ai triệu trách nhiệm,ai chịu trách nhiệm
+20,anh lả ai,anh là ai
+21,đóng phinh ,đóng phim
+22,vuọt ngục,vượt ngục
+23,comment sàm,comment xàm
+24,người hiểu xẽ nhìn ra,người hiểu sẽ nhìn ra
+25,sai ghon ,sài gòn
+26,chưởi ,chửi 
+27,giọng miền nâm,giọng miền nam
+28,hây hơn,hay hơn
+29,chần kảm,trầm cảm
+30,chan.kam,trầm cảm
+31,giảm xuông,giảm xuống
+32,sử sự không còn gì để nói,xử sự không còn gì để nói
+33,thít  nhiều  thứ ,thích nhiều thứ 
+34,sĩ nhục,sỉ nhục
+35,cường hôn,cưỡng hôn
+36,thẳng yêu râu xanh,thằng yêu râu xanh
+37, như vậ mới có nền văn minh, như vậy mới có nền văn minh
+38,lấy cái lu trống lụt ,lấy cái lu chống lụt 
+39,thỳ mọi biện minh bằng thườ,thì mọi biện minh bằng thừa
+40,youtube thấy lời tục tỉu quá,youtube thấy lời tục tĩu quá
+41,tuyên tuyền,tuyên truyền
+42,những tơ báo ,những tờ báo 
+43,chưa chín xác,chưa chính xác
+44,hã bạn,hả bạn
+45,nói chuyện nghe rất hòa hã,nói chuyện nghe rất hòa nhã
+46,hệ thống chính trị mỷ ,hệ thống chính trị mỹ
+47,nếu bị rát mong thì bạn nên dùng thuốc,nếu bị rát mông thì bạn nên dùng thuốc
+48,như thế lày,như thế này
+49,tôi luôn ngưỡn mộ và ủng hộ,tôi luôn ngưỡng mộ và ủng hộ
+50,sē cãm thâÿ vui hön,sẽ cảm thấy vui hơn
+51,tôi tự vo,tôi tự do
+52,sự đau khổ cua người,sự đau khổ của người
+53,đọc tài,độc tài
+54,độc sách,đọc sách
+55,đặt tên cung cơm,đặt tên cúng cơm
+56,lật đỗ,lật đổ
+57,mưu muội,ngu muội
+58,cùng nhau năm tay ,cùng nhau nắm tay 
+59,hảy suy nghỉ,hãy suy nghĩ
+60,lật đỏ xe,lật đổ xe
+61,người dân chống giặt,người dân chống giặc
+62,mời giặt vao nhà,mời giặc vào nhà
+63,mày còn binh nó nữa,mày còn bênh nó nữa
+64,có khã năng ,có khả năng 
+65,bệnh ung thư đi căn,bệnh ung thư di căn
+66,nó sẻ tự tan rả,nó sẽ tự tan rã
+67,lảm nhãn,lảm nhảm
+68,gian lặng phiếu,gian lận phiếu
+69,sắp tới bầu cử giữ mùa,sắp tới bầu cử giữa mùa
+70,zui zẻ,vui vẻ
+71,mot nagn lan,một ngàn lần
+72,bản tánh ích kĩ ,bản tánh ích kỷ
+73,bản tánh ích kĩ,bản tánh ích kỉ
+74,bản tánh ích kĩ ,bản tính ích kỷ 
+75,chú 7 bị yết sinh lý,chú 7 bị yếu sinh lý
+76,bể lớp xe,bể lốp xe
+77,ra lịnh,ra lệnh
+78,lắy chồng,lấy chồng
+79,đễ trã nọ,để trả nợ
+80,liên xô củ,liên xô cũ
+81,vị lảnh tụ,vị lãnh tụ
+82,quá thô bao,quá thô bạo
+83,tên dặm tắc,tên dâm tặc
+84,ấu râm ,ấu dâm
+85,xấu hổ púa,xấu hổ quá
+86,hết y kiến ,hết ý kiến
+87,ht lời để nói ,hết lời để nói
+88,lính mẽo,lính mỹ
+89,"đả lắm, sướng lỗ tai","đã lắm, sướng lỗ tai"
+90,nge anh nói chuyện ,nghe anh nói chuyện 
+91,muôn nem ,muôn năm
+92,kinh tỏm,kinh tởm
+93,tin buồn noan báo trên đài,tin buồn loan báo trên đài
+94,mùa nắg,mùa nắng
+95,cái chớt bất ngờ,cái chết bất ngờ
+96,cứ thíc đi,cứ thích đi
+97,giòng sông seine,dòng sông seine
+98,đất thủ đô mắt hơn tokyo,đất thủ đô mắc hơn tokyo
+99,quá hảo huyền,quá hão huyền
+100,hắn thường lói ,hắn thường nói
+101,mùa lày,mùa này
+102,xe ta boong boong,xe ta bon bon
+103,nghiện bài nì dồi,nghiện bài này rồi
+104,dai điệu của bài hát,giai điệu của bài hát
+105,làm sao thjếu mjk đc,làm sao thiếu mình được
+106,co mik ne ,có mình nè
+107,nút bạc cũa youtube,nút bạc của youtube
+108,trái bôm,trái bom
+109,zòg tròn,vòng tròn
+110,quân tao cái áo,quăng tao cái áo
+111,làm qen,làm quen
+112,cứ mặc kỵ,cứ mặc kệ
+113,coi quài mà ko chán,coi hoài mà không chán
+114,trái bơm,trái bom
+115,thic nge bài này,thích nghe bài này
+116,bị bệnh la,bị bệnh lạ
+117,cở hắn còn ngán tao,cỡ hắn còn ngán tao
+118,nguòi công khai tài sản,người công khai tài sản
+119,gần nữa đời người,gần nửa đời người
+120,thèm rỏ nhãi,thèm rỏ dãi
+121,xài tiền măt,xài tiền mặt
+122,lưới trời lồng lỗng,lưới trời lồng lộng
+123,bảo vệ kỷ chứ máy ổng mò wa nửa,bảo vệ kỹ chứ mấy ổng mò qua nữa
+124,mầy ăn kẹo,mày ăn kẹo
+125,kêu họ bình tỉnh lại đi,kêu họ bình tĩnh lại đi
+126,bớt nhãm đi em,bớt nhảm đi em
+127,sồng phặng,sòng phẳng
+128,cần uống bia khog?,cần uống bia không?
+129,mõi miệng,mỏi miệng
+130,ba già,bà già
+131,ăn cấp vặt,ăn cắp vặt
+132,mí đại gia bên việt nam,mấy đại gia bên việt nam
+133,ửa tiền,rửa tiền
+134,không rút vốn cho le là sẽ bây hết chong này mai,không rút vốn cho lẹ là sẽ bay hết trong nay mai
+135,mua dưới nữa triệu đô,mua dưới nửa triệu đô
+136,cái mall cảu anh sao rồi,cái mall của anh sao rồi
+137,bi sở thuế vụ gõ cửa,bị sở thuế vụ gõ cửa
+138,mua bất động sảng,mua bất động sản
+139,xúi nguòi ta,xúi người ta
+140,hãy tự vuong lên ,hãy tự vươn lên 
+141,chổ đứng,chỗ đứng
+142,vịt ngang,vịt ngan
+143,đồng chấy đã bị lộ,đồng chí đã bị lộ
+144,chó dữ nhà,chó giữ nhà
+145,bệnh tân thần,bệnh tâm thần
+146,sâu thẩm,sâu thẳm
+147,giờ tao đở nhiều,giờ tao đỡ nhiều
+148,không giám trả lời,không dám trả lời
+149,chiến sỉ tiền tuyến,chiến sĩ tiền tuyến
+150,nhìn lanh lùng quá,nhìn lạnh lùng quá
+151,ko gián film,không dán film
+152,cách âm triệt để xẽ gây nóng máy,cách âm triệt để sẽ gây nóng máy
+153,rỉ xét,rỉ sét
+154,chi sẻ kiến thức,chia sẻ kiến thức
+155,họ chỉ gian kinh cảnh cửa,họ chỉ dán kính cánh cửa
+156,tầm nhìn rỏ,tầm nhìn rõ
+157,trời lạnh lả do chênh nhiệt,trời lạnh là do chênh nhiệt
+158,như bác đề cấp đó,như bác đề cập đó
+159,chùi rữa gầm,chùi rửa gầm
+160,mùa đông cũng có tuyết và phải rãi muối xuống đường,mùa đông cũng có tuyết và phải rải muối xuống đường
+161,gầm xe rĩ sét,gầm xe rỉ sét
+162,mà giỏi zậy,mà giỏi vậy
+163,chót phủ gầm rồi thì sửa sao,trót phủ gầm rồi thì sửa sao
+164,bên ngoai chẳng giải quet đựoc,bên ngoài chẳng giải quyết được
+165,dân giàu chỉ xữ dụng,dân giàu chỉ sử dụng
+166,"lớp sơn phủ mới nó có giòn, vong tróc sau một thời gian ","lớp sơn phủ mới nó có giòn, bong tróc sau một thời gian "
+167,gầm bị bám bùn đất củng dể xịt rửa nửa bạn,gầm bị bám bùn đất cũng dễ xịt rửa nữa bạn
+168,đáy cũng là bài học,đấy cũng là bài học
+169,bị rĩ sét,bị rỉ sét
+170,đỗ thừa,đổ thừa
+171,chống buôn lâu ,chống buôn lậu
+172,e cx đồng quan điểm ,em cũng đồng quan điểm 
+173,mòn láng con,mòn láng coóng
+174,nhàm trán,nhàm chán
+175,tôi không có xe nhưng vẫn mủ hộ kinh,tôi không có xe nhưng vẫn ủng hộ kênh
+176,hình anh rõ lét,hình ảnh rõ nét
+177,a nên làm từng loại cụ thể và bảo gia sơ lực,anh nên làm từng loại cụ thể và báo giá sơ lược
+178,có pho biến,có phổ biến 
+179,video rất bỗ ích,video rất bổ ích
+180,cứ 5-8 vạn là bán mu xe mới,cứ 5-8 vạn là bán mua xe mới 
+181,sữa chửa dễ khg anh ?,sửa chữa dễ không anh?
+182,khi duy chuyển thi hoat dong binh thường,khi di chuyển thì hoạt động bình thường
+183,xe tui củng đả bệnh cảm cúm như thế nầy,xe tui cũng đã bệnh cảm cúm như thế này
+184,xin hỏi ad làm xe ở gala nào,xin hỏi ad làm xe ở gara nào
+185,xe đg nô máy có tiêng kêu rè re rồi lai ngắt qoang r lai kêu là bênh gì ha anh,xe đang nổ máy có tiếng kêu rè rè rồi lại ngắt quãng rồi lại kêu là bệnh gì hả anh
+186,đẫ kiêm tra hãng  k ra bệnh,đã kiểm tra hãng không ra bệnh
+187,xe số tự động khi vào số bị dật,xe số tự động khi vào số bị giật
+188,xỉn bạn tư vấn thêm,xin bạn tư vấn thêm
+189,kêu gột soạt,kêu sột soạt
+190,còn hơn đi bảo vì mấy thằng đá banh,còn hơn đi bão vì mấy thằng đá banh
+191,hy vọng trump tái đắt cử ,hy vọng trump tái đắc cử 
+192,toi cin phep,tôi xin phép
+193,còn đãng viên,còn đảng viên
+194,côn an,công an
+195,bại đat chuyen chỗ nào,bịa đặt chuyện chỗ nào
+196,làm được nhiều trương trình hay,làm được nhiều chương trình hay
+197,nhiều cảnh thee lương,nhiều cảnh thê lương
+198,mún bình luận lắm,muốn bình luận lắm
+199,đang rất con ngu muội,đang rất còn ngu muội
+200,anh lúc nào diển giải củng vui có lúc chưởi thẳng,anh lúc nào diễn giải cũng vui có lúc chửi thẳng
+201,dủng rồi đó em ,đúng rồi đó em 
+202,xác ốp ai cập ,xác ướp ai cập 
+203,gặt háy,gặt hái
+204,hộp tác,hợp tác 
+205,chổ,chỗ
+206,siu nét,siêu nét
+207,ôtô củ ,ôtô cũ
+208,không đủ tự cách,không đủ tư cách
+209,pưngpô,bưng bô
+210,dū tú cách,đủ tư cách
+211,sáng lạn,xán lạn
+212,vẫn cho hoặc chốn ra đường nhiều,vẫn cho hoặc trốn ra đường nhiều
+213,nước giời nại còn pha nước cống,nước trời lại còn pha nước cống
+214,sông tô nịch,sông tô lịch
+215,quy hoạch tràng lang,quy hoạch tràn lan
+216,quàng hậu chửi bậy,hoàng hậu chửi bậy
+217,còn muốn bẽ răng cọp,còn muốn bẻ răng cọp
+218,cuoi siu luon,cười xỉu luôn
+219,cô giáo tui côi anh,cô giáo tui coi anh
+220,kêu các em lên xem,kêu các em nên xem
+221,lúc đó ngạo mạng lắm,lúc đó ngạo mạn lắm
+222,có giỏi hàng độg,có giỏi hành động
+223,người khổ điem trên đầu ngón tay,người khổ đếm trên đầu ngón tay
+224,tôi cười dụng rốn,tôi cười rụng rốn
+225,"quýt làm, cam chịu đoàn","quýt làm, cam chịu đòn"
+226,cha trả,cha chả
+227,nói năng hay ca hát đều hoà huyện,nói năng hay ca hát đều hoà quyện
+228,việc gì đều chia sẽ,việc gì đều chia sẻ
+229,không ai chüī,không ai chửi
+230,quá muổn rùi ,quá muộn rồi
+231,chia sẽ chính xát,chia sẻ chính xác
+232,sợ bị lụm thí mẹ lun,sợ bị lượm thấy mẹ luôn
+233,"lặn sâu, thở khẻ","lặn sâu, thở khẽ"
+234,chán thấy ge,chán thấy ghê
+235,cười muốn sản,cười muốn sảng
+236,chính xác gê,chính xác ghê
+237,xào quyệt mưu mô,xảo quyệt mưu mô
+238,giờ thì hiểu gòi,giờ thì hiểu rồi
+239,dìa hỏi bã ,dìa hỏi bả
+240,đang chân qui tấm lòng 2 em,đáng trân quý tấm lòng 2 em
+241,qui tắt ứng xử,qui tắc ứng xử
+242,thời thế thai đổi,thời thế thay đổi
+243,hảy làm gì bạn có thể,hãy làm gì bạn có thể
+244,"đèn nhà ai nấy sáng, thì cả nước sẻ tối thui","đèn nhà ai nấy sáng, thì cả nước sẽ tối thui"
+245,phải làm xao,phải làm sao
