@@ -4,6 +4,6 @@ Dữ liệu được tập hợp thông qua các cuộc trò chuyện, bình lu�
 
 Đóng góp - Contributing: [dataset collecting form](https://forms.gle/11v2TcW7oS3nqeA47)
 
-## Danh sách các tập dataset về chủ đề chính tả tiếng Việt
+## Danh sách các tập dataset khvề chủ đề chính tả tiếng Việt
 1. [VNTC](https://github.com/duyvuleo/VNTC): bộ dữ liệu của tác giả [duyvuleo](https://github.com/duyvuleo)
 2. Các bộ dữ liệu liên quan đến Vi-Wiki: [Dữ liệu chưa xử lý](https://dumps.wikimedia.org/viwiki/latest/), đã xử lý bởi [heraclex12](https://github.com/heraclex12/Viwiki-spelling)
