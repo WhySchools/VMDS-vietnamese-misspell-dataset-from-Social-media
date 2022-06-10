@@ -1,4 +1,4 @@
-STT,WRONG,RIGHT
+stt,wrong,right
 0,chính sác ,chính xác 
 1,dân biểu liêng bang,dân biểu liên bang
 2,chiên sư ukraine,chiến sự ukraine
@@ -421,55 +421,121 @@ STT,WRONG,RIGHT
 419,bị điện dựt,bị điện giật
 420,những kẻ nông cuộn phải trả giá,những kẻ nông cạn phải trả giá
 421,một người có tầm ảnh hưỡng lớn,một người có tầm ảnh hưởng lớn
-422,luc do anh dang lam viec tai Paramuont ,lúc đó anh đang làm việc tại Paramount 
+422,luc do anh dang lam viec tai paramuont ,lúc đó anh đang làm việc tại paramount 
 423,cam on chia se,cảm ơn chia sẻ
 424,cựu tổng thống donna trump,cựu tổng thống donald trump
 425,phục hòi chũ nghỉa yêu nước,phục hồi chủ nghĩa yêu nước
-426,Nói táo lao,Nói tào lao
-427,Dù gặp đội nào đi nửa .hảy thi đấu với tinh thàn,"Dù gặp đội nào đi nữa, hãy thi đấu với tinh thần"
+426,nói táo lao,nói tào lao
+427,dù gặp đội nào đi nửa .hảy thi đấu với tinh thàn,"dù gặp đội nào đi nữa, hãy thi đấu với tinh thần"
 428,tự tin có lỗi đá kỹ thuật,tự tin có lối đá kỹ thuật
-429,Rồi tiếng sâu vào vòng trong,Rồi tiến sâu vào vòng trong
+429,rồi tiếng sâu vào vòng trong,rồi tiến sâu vào vòng trong
 430,đối thủ nào kug đều mạnh cả,đối thủ nào cũng đều mạnh cả
-431,Gặp nhật bổn thì toáng,Gặp nhật bổn thì toang
-432,Gặp nhật bổn thì toáng,Gặp nhật bản thì toang
-433,Gặp nhật bản rễ chơi hơn,Gặp nhật bản dễ chơi hơn
+431,gặp nhật bổn thì toáng,gặp nhật bổn thì toang
+432,gặp nhật bổn thì toáng,gặp nhật bản thì toang
+433,gặp nhật bản rễ chơi hơn,gặp nhật bản dễ chơi hơn
 434,đở hơn cai bọn nổ cho đã,đỡ hơn cái bọn nổ cho đã
 435,vài vị tổng thống lối tiếp,vài vị tổng thống nối tiếp
 436,tương nay hai cụ đi nghỉ mát,tương lai hai cụ đi nghỉ mát
-437,Lênh dĩa,Lên dĩa
-438,Vụ nầy có lấy được tiền,Vụ này có lấy được tiền
+437,lênh dĩa,lên dĩa
+438,vụ nầy có lấy được tiền,vụ này có lấy được tiền
 439,chìm xuồng vụ nầy rồi,chìm xuồng vụ này rồi
 440,vì trùm.cuoi vẫn còn bình an,vì trùm cuối vẫn còn bình an
-441,Điều hàh các bộ,Điều hành các bộ
-442,Ban chủ ra lệnh xử lý,Bang chủ ra lệnh xử lý
+441,điều hàh các bộ,điều hành các bộ
+442,ban chủ ra lệnh xử lý,bang chủ ra lệnh xử lý
 443,cười chẩy nước mắt,cười chảy nước mắt
-444,băng ĐÃNG,băng đảng
-445,trung ương ĐÃNG,trung ương đảng
+444,băng đãng,băng đảng
+445,trung ương đãng,trung ương đảng
 446,dơ dý quá,dơ dáy quá
 447,mổi nc có nền chính tri khác nhau ko thể so sánh nc nầy nc khác đc,mỗi nước có nền chính trị khác nhau không thể so sánh nước này nước khác được
 448,chung quy lai đảng phái chính tri nào củng vì dân vì nc cả,chung quy lại đảng phái chính tri nào cũng vì dân vì nước cả
-449,Chủ nghĩa quoái thai nên,Chủ nghĩa quái thai nên
+449,chủ nghĩa quoái thai nên,chủ nghĩa quái thai nên
 450,nhưng lưu nanh trong điều hành,nhưng lưu manh trong điều hành
 451,đi ăn mài,đi ăn mày
 452,ban chín trị,ban chính trị
 453,sồng phẳng,sòng phẳng
 454,câm thù mầy,căm thù mày
-455,Còn hai ống nữa đang núp lùm,Còn hai ông nữa đang núp lùm
-456,Hây Quá anh ơi,Hay Quá anh ơi
+455,còn hai ống nữa đang núp lùm,còn hai ông nữa đang núp lùm
+456,hây quá anh ơi,hay quá anh ơi
 457,vừa thồi còi vừa đá bóng,vừa thổi còi vừa đá bóng
 458,chộm cắp,trộm cắp
 459,gặp chuyện chửi xuống cống,gặp chuyện chui xuống cống
 460,nói hay thăm thí,nói hay thâm thúy
-461,Tôi xin nghiên mình,Tôi xin nghiêng mình
+461,tôi xin nghiên mình,tôi xin nghiêng mình
 462,chỉ bit trục lợi cho mình,chỉ biết trục lợi cho mình
-463,nhân dân Urayna,nhân dân Ukraine
+463,nhân dân urayna,nhân dân ukraine
 464,xem truyền hình của mẽo,xem truyền hình của mỹ
 465,ik xâm lược,đi xâm lược
-466,ủkraina thật tuyệt vời,Ukraine thật tuyệt vời
+466,ủkraina thật tuyệt vời,ukraine thật tuyệt vời
 467,đất nứoc ucraina,đất nước ukraine
-468,Vì đại,Vĩ đại
+468,vì đại,vĩ đại
 469,vụ khí hiện đại,vũ khí hiện đại
 470,nhan den ucaina kiên cường buat khuất,nhân dân ukraine kiên cường bất khuất
 471,thấy hắn nỗi hơn mình,thấy hắn nổi hơn mình
 472,chui dước gầm giường,chui dưới gầm giường
 473,nói đóc xảo ngôn,nói dóc xảo ngôn
+474,lênh dĩa,lên dĩa
+475,vụ nầy có lấy được tiền,vụ này có lấy được tiền
+476,chìm xuồng vụ nầy rồi,chìm xuồng vụ này rồi
+477,vì trùm.cuoi vẫn còn bình an,vì trùm cuối vẫn còn bình an
+478,điều hàh các bộ,điều hành các bộ
+479,ban chủ ra lệnh xử lý,bang chủ ra lệnh xử lý
+480,cười chẩy nước mắt,cười chảy nước mắt
+481,băng đãng,băng đảng
+482,trung ương đãng,trung ương đảng
+483,dơ dý quá,dơ dáy quá
+484,mổi nc có nền chính tri khác nhau ko thể so sánh nc nầy nc khác đc,mỗi nước có nền chính trị khác nhau không thể so sánh nước này nước khác được
+485,chung quy lai đảng phái chính tri nào củng vì dân vì nc cả,chung quy lại đảng phái chính tri nào cũng vì dân vì nước cả
+486,chủ nghĩa quoái thai nên,chủ nghĩa quái thai nên
+487,nhưng lưu nanh trong điều hành,nhưng lưu manh trong điều hành
+488,đi ăn mài,đi ăn mày
+489,ban chín trị,ban chính trị
+490,sồng phẳng,sòng phẳng
+491,câm thù mầy,căm thù mày
+492,còn hai ống nữa đang núp lùm,còn hai ông nữa đang núp lùm
+493,hây quá anh ơi,hay quá anh ơi
+494,vừa thồi còi vừa đá bóng,vừa thổi còi vừa đá bóng
+495,chộm cắp,trộm cắp
+496,gặp chuyện chửi xuống cống,gặp chuyện chui xuống cống
+497,nói hay thăm thí,nói hay thâm thúy
+498,tôi xin nghiên mình,tôi xin nghiêng mình
+499,chỉ bit trục lợi cho mình,chỉ biết trục lợi cho mình
+500,nhân dân urayna,nhân dân ukraine
+501,xem truyền hình của mẽo,xem truyền hình của mỹ
+502,ik xâm lược,đi xâm lược
+503,ủkraina thật tuyệt vời,ukraine thật tuyệt vời
+504,đất nứoc ucraina,đất nước ukraine
+505,vì đại,vĩ đại
+506,vụ khí hiện đại,vũ khí hiện đại
+507,nhan den ucaina kiên cường buat khuất,nhân dân ukraine kiên cường bất khuất
+508,thấy hắn nỗi hơn mình,thấy hắn nổi hơn mình
+509,chui dước gầm giường,chui dưới gầm giường
+510,nói đóc xảo ngôn,nói dóc xảo ngôn
+511,ông này hòi nhỏ chắt bị mấy đứa cùng tuổi đánh,ông này hồi nhỏ chắc bị mấy đứa cùng tuổi đánh
+512,làm trước đi rồi hẵng nghỉ tới ,làm trước đi rồi hẵng nghĩ tới 
+513,lở ném bóng trúng mình,lỡ ném bóng trúng mình
+514,cẩu đầu trãm chờ lệnh,cẩu đầu trảm chờ lệnh
+515,toàn vu đản không,toàn du đãng không
+516,thành kính phân u có,thành kính phân ưu cô
+517,nỗi sĩ nhục,nỗi sỉ nhục
+518,quên thế,quen thế
+519,hơi quá chổ nao?,hơi quá chỗ nào?
+520,1 phút mặt liệm,1 phút mặc niệm
+521,chông chán cái tên,trông chán cái tên
+522,pha sử lý có đẳng cấp,pha xử lý có đẳng cấp
+523,bác hộc hình học kém quá,bác học hình học kém quá
+524,năng nỉ mãi mấy trăm mới cho đi,năn nỉ mãi mấy trăm mới cho đi
+525,cho trừa cái thói đi lỏi ,cho chừa cái thói đi lỗi
+526,cò nhiều loại khôn lõi này lắm,có nhiều loại khôn lỏi này lắm
+527,tạc đầu láo và cái kết,tạt đầu láo và cái kết
+528,có bỏ được tất loi nhoi hay không,có bỏ được tật loi nhoi hay không
+529,đánh bài bày chắc,đánh bài này chắc
+530,tha hóa lụm bại,tha hóa lụn bại
+531,y đả từng là bí thư,y đã từng là bí thư
+532,tháng 7 này sẽ lên nửa,tháng 7 này sẽ lên nữa
+533,chùa cũa thái rất đệp,chùa của thái rất đẹp
+534,thôn quệ họ sạch sẻ vệ sinh ko xã rác bừa bãi,thôn quê họ sạch sẽ vệ sinh không xả rác bừa bãi
+535,ăn người ta có trậm bóng đá,ăn người ta có trận bóng đá
+536,1 triệu năm nữa mới kịêp thái lan,1 triệu năm nữa mới kịp thái lan
+537,tiếc kiệm,tiết kiệm
+538,mua lộn màu lên không biết rài sao nhưng hàng cũng ok lên mua nha,mua lộn màu nên không biết xài sao nhưng hàng cũng ok nên mua nha
+539,ko biết sôn bề mặc có giặc đc ko,không biết sơn bề mặt có giặt được không
