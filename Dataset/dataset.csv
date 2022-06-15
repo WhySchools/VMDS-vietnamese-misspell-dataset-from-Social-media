@@ -29,7 +29,7 @@ stt,wrong,right
 27,giọng miền nâm,giọng miền nam
 28,hây hơn,hay hơn
 29,chần kảm,trầm cảm
-30,chan.kam,trầm cảm
+30,chan kam,trầm cảm
 31,giảm xuông,giảm xuống
 32,sử sự không còn gì để nói,xử sự không còn gì để nói
 33,thít  nhiều  thứ ,thích nhiều thứ 
@@ -378,7 +378,7 @@ stt,wrong,right
 376,sét về nhiều vấn đề,xét về nhiều vấn đề
 377,không sằng phẳng,không sòng phẳng
 378,ông f2 lên thay thì củng học từ ông f1,ông f2 lên thay thì cũng học từ ông f1
-379,"bán thuốc ung thu giá, rất nghiêm trọng, 4 năm tù, chộm gà, nhe, 9 nem tù","bán thuốc ung thư giả, rất nghiêm trọng, 4 năm tù, trộm gà, nhẹ, 9 năm tù"
+379,"bán thuốc ung thu giá, rất nghiêm trọng, 4 năm tù, chộm gà, nhe, 7 nem tù","bán thuốc ung thư giả, rất nghiêm trọng, 4 năm tù, trộm gà, nhẹ, 7 năm tù"
 380,mì chín,mì chính
 381,"ngoảnh mặt vào đâu, củng phải ngìm cơn mửa","ngoảnh mặt vào đâu, cũng phải ghìm cơn mửa"
 382,bung và toan thật rồi,bung và toang thật rồi
@@ -523,3 +523,81 @@ stt,wrong,right
 521,"lớp sơn mòng, nhanh khô","lớp sơn mỏng, nhanh khô"
 522,mới quẹt mụt lớp cơ bản,mới quẹt một lớp cơ bản
 523,tỵt vời m ng oi,tuyệt vời mọi người ơi
+524,khác nhay chỗ nào,khác nhau chỗ nào
+525,tấm hình này đặt biệt qúa,tấm hình này đặc biệt quá 
+526,quá khập khiểng,quá khập khiểng
+527,quá khập khiểng,quá khập khiễng
+528,k làm đc gì giờ giở võ mõm,không làm được gì giờ giở võ mồm
+529,sợ ước quần,sợ ướt quần
+530,sai trính tả,sai chính tả
+531,cháo ngoan,cháu ngoan
+532,cảm ơn bạn làm đối tát phản hồi,cảm ơn bạn làm đối tác phản hồi
+533,đừng trọc tui à nha,đừng chọc tui à nha
+534,gõ gàng,rõ ràng
+535,một bên nhìn ủy hiếp,một bên nhìn uy hiếp
+536,mac tả cho con,mặc tã cho con
+537,có mức lượng hơn cả ,có mức lương hơn cả 
+538,đãng viên cao cấp nà mà k có ,đảng viên cao cấp nào mà không có
+539,"chúc nhanh thổi giá , giầu mới mau ","chúc nhanh thổi giá, giàu mới mau "
+540,có đút lót thằng quang quân nào ko,có đút lót thằng quan quân nào không
+541,hãy khoe khoan,hãy khoe khoang
+542,làm gì có thâm nhũng,làm gì có tham nhũng
+543,"chẳn qua thang ""nòi"" và thằng ""chư lòi""","chẳng qua thằng ""lòi"" và thằng ""chưa lòi"""
+544,bà chủ bán bán mì bã nói không biết,bà chủ bán bánh mì bả nói không biết
+545,can bô nhà nước,cán bộ nhà nước
+546,tiếng nói trng thực và sắt bén,tiếng nói trung thực và sắc bén
+547,rất khô khang và khó nuốt,rất khô khan và khó nuốt
+548,khỏe của là hại thân,khoe của là hại thân
+549,tương lai sè được,tương lai sẽ được
+550,trịnh độ anh cao siêu ,trình độ anh cao siêu 
+551,"thù hặn, dẫm dục","thù hận, dâm dục"
+552,chính xát dụng toi là,chính xác đụng tới là
+553,quag vô hầm cá trê,quăng vô hầm cá trê
+554,từ khi bấm quẻo,từ khi bấm quẻ
+555,bả giám đụng tới,bả dám đụng tới
+556,bình loạn quá chính xác,bình luận quá chính xác
+557,đúng gòi,đúng rồi
+558,vì đả có quốc tế ,vì đã có quốc tế 
+559,nói chính xát,nói chính xác
+560,bị hú nồi thì nó có vẩn đến tình trạng lột dên ko,bị hú nồi thì nó có dẫn đến tình trạng lột dên không
+561,xe làm cả núi tiền mà toàn đồ hôi lao,xe làm cả núi tiền mà toàn đồ ho lao
+562,sài làm j ta ,xài làm gì ta 
+563,vô lim sĩ,vô liêm sỉ
+564,chưa phải suất xắc,chưa phải xuất sắc
+565,đôc quyền đôc tai,độc quyền độc tài
+566,ngan sách quốc gia lo không nôi,ngân sách quốc gia lo không nổi
+567,phẩm chất cơ bảng ,phẩm chất cơ bản 
+568,mắc xích,mắt xích
+569,dấy diếm,giấu giếm
+570,cẩm ơn anh,cảm ơn anh
+571,âm nhạc đỉnh kao,âm nhạc đỉnh cao
+572,thần thái đỉnh kout,thần thái đỉnh cao
+573,giọng hát toẹt zời,giọng hát tuyệt vời
+574,vài chục clip như thế lầy nữa,vài chục clip như thế này nữa
+575,suất sắc,xuất sắc
+576,khoái nhất lúc anh phiu,khoái nhất lúc anh feel 
+577,vn lên mở chiến dịch,vn nên mở chiến dịch
+578,düng nghe nhüng gì ,đừng nghe những gì 
+579,bằng tài khoảng ảo,bằng tài khoản ảo
+580,khác nước,khát nước
+581,những ngày đau khổ cũa dân việt,những ngày đau khổ của dân việt
+582,cuộc sống đôi khi biết đũ,cuộc sống đôi khi biết đủ
+583,sự thật bị dấu kính,sự thật bị giấu kín
+584,phụ tùng xe đạp củ,phụ tùng xe đạp cũ
+585,bạc mạng,bạt mạng
+586,con ết,con ếch
+587,tên lữa,tên lửa
+588,rát vàng,dát vàng
+589,bây chúng đích,bay trúng đích
+590,không giám bắt,không dám bắt
+591,dẽ chuyện,vẽ chuyện
+592,đắc đỏ,đắt đỏ
+593,tiết thật đấy,tiếc thật đấy
+594,lồi cơm điện,nồi cơm điện
+595,đường chơn trượt,đường trơn trượt
+596,đặt sản,đặc sản
+597,phải chả dá,phải trả giá
+598,thời giang,thời gian
+599,mỡ khoá,mở khoá
+600,lụ cười,nụ cười
+601,nhà bị giao bán,nhà bị rao bán
