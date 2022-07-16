@@ -789,7 +789,7 @@ stt,wrong,right
 787,nghành y tế,ngành y tế
 788,giống như một lá dầy,giống như một lá dày
 789,cò nồi bị công như vậy ,cò nồi bị cong như vậy 
-790,anh ơi xe dọng nồi em kiểu tra chuồn heo thì không rơ,anh ơi xe dọng nồi em kiểm tra chuồng heo thì không rơ
+790,anh ơi xe dọng nồi em kiểu tra chuồn heo thì không rơ,anh ơi xe dộng nồi em kiểm tra chuồng heo thì không rơ
 791,quoảng cáo quá nhiều,quảng cáo quá nhiều
 792,cânr thận,cẩn thận
 793,hát tăng khán giả,hát tặng khán giả
@@ -1016,7 +1016,7 @@ stt,wrong,right
 1014,phen sử lý hú vía,phen xử lý hú vía
 1015,nhìn một đám tỡm thật,nhìn một đám tởm thật
 1016,ai mà rãnh hơi như tụi mài,ai mà rảnh hơi như tụi mày
-1017,dọng nòi là nhiều,dọng nồi là nhiều
+1017,dọng nòi là nhiều,dộng nồi là nhiều
 1018,ngạo -ngễ,ngạo nghễ
 1019,"đập bỏ lót đường cho xong , chở chị cho tốn phí","đập bỏ lót đường cho xong, chở chi cho tốn phí"
 1020,đúng i chang,đúng y chang
@@ -1065,4 +1065,39 @@ stt,wrong,right
 1063,nếu có diệp bạn đến tham quan tiệm mình luôn thể,nếu có dịp bạn đến tham quan tiệm mình luôn thể
 1064,vậy lỗ ma den có sử lý ko hay cứ ép vào ah,vậy lỗ má dên có xử lý không hay cứ ép vào ạ
 1065,may ăn rồi làm khung la hay ,mày ăn rồi làm khùng là hay 
-1066,nhưng ông đóng thế kia ông có dám chắc là rắp vào zên ko bị cong hay lệch làm hư trái hư lòng không,nhưng ông đóng thế kia ông có dám chắc là ráp vào dên không bị cong hay lệch làm hư trái hư lòng không
+1066,nhưng ông đóng thế kia ông có dám chắc là rắp vào zên ko bị cong hay lệch làm hư trái hư lòng không,"nhưng ông đóng thế kia, ông có dám chắc là ráp vào dên không bị cong hay lệch, làm hư trái hư lòng không"
+1067,xe của bạn bị công chảng pa rồi,xe của bạn bị cong chảng ba rồi
+1068,đóng vài búa xịt rp7 ròi vặn ra,"đóng vài búa, xịt rp7, rồi vặn ra"
+1069,rạt hay ban hiền minh học hỏi rất nhìu từ ban,"rất hay bạn hiền, mình học hỏi rất nhiều từ bạn"
+1070,thật nguy hiểm khi sên cam quá dùng,thật nguy hiểm khi sên cam quá chùng
+1071,cách dáng keo nồng bị lủn hay quá bạn ơi,cách dán keo lòng bị lủng hay quá bạn ơi
+1072,bênh anh có chế lửa 86 đề được không,bên anh có chế lửa 86 đề được không
+1073,người sủ dụng xe có biết yêu quý xe của mình không,người sử dụng xe có biết yêu quý xe của mình không
+1074,"ích có ái kĩ lưỡng đc như bạn,",ít có ai kĩ lưỡng được như bạn
+1075,hàng nhôm sẽ thiết phục khách hàng,hàn nhôm sẽ thuyết phục khách hàng
+1076,khắc phục lóc máy,khắc phục lốc máy
+1077,sao keo ab a dán nó bắm dữ vậy,sao keo ab anh dán nó bám dữ vậy
+1078,cách sử lý lốc máy bị thủng,cách xử lý lốc máy bị thủng
+1079,chia sẽ xử lí lốc máy,chia sẻ xử lí lốc máy
+1080,rườm rà chỉ cần 1cây sắt 6 uốn hơi cong đầu tí xíu đúc vào bẩy lên là nó sẻ ra thôi,rườm rà chỉ cần 1cây sắt 6 uốn hơi cong đầu tí xíu đút vào bẩy lên là nó sẽ ra thôi
+1081,chế rất hây va hữu ích ,chế rất hay và hữu ích 
+1082,trời ơi đợi gắng cảo vào tui sài kiềm xong lun oy ,"trời ơi đợi gắn cảo vào, tui xài kềm xong luôn rồi"
+1083,hay lắm sự phụ ,hay lắm sư phụ 
+1084,thì trường có bán nên mình cũng ko có chế,thị trường có bán nên mình cũng không có chế
+1085,lấy kìm bấm cậy cái song nhanh,"lấy kềm bấm cạy cái, xong, nhanh"
+1086,chẳn lẻ hồi giờ thợ sửa không lấy ra được hả,chẳng lẽ hồi giờ thợ sửa không lấy ra được hả
+1087,chẳn lẽ mua bộ tiện rẻ hơn cái kìm bấm hả,chẳng lẽ mua bộ tiện rẻ hơn cái kìm bấm hả
+1088,vấn đề nó gẩy chốt kẹp,vấn đề nó gãy chốt kẹp
+1089,ông chỉ cần đặc hàng a ấy làm,ông chỉ cần đặt hàng anh ấy làm
+1090,khắc phục giọng loc và xao máy,khắc phục dộng lốc và xào máy
+1091,quang trọng là người thợ sử lí khéo léo là ok,quan trọng là người thợ xử lí khéo léo là ok
+1092,phải rả máy làm mới đc hen bạn,phải rã máy làm mới được hen bạn
+1093,lm vậy cây dên bị lệch lo bạn ,làm vậy cây dên bị lệch không bạn 
+1094,rut lóc quá cứng rồi cũng bị kêu cọc cọc giống dọng lốc khắc phục sao v a,"rút lốc quá cứng, rồi cũng bị kêu cộc cộc giống dộng lốc, khắc phục sao vậy anh"
+1095,dọng nòi,dộng nồi
+1096,e đi rút lóc rui mà vẩn kêu,em đi rút lốc rồi mà vẫn kêu
+1097,kg ổn lắm chỉ sợ kg đồng tâm sẽ hú nồi ,"không ổn lắm, chỉ sợ không đồng tâm sẽ hú nồi "
+1098,đi rút sai ngon hơn bồ ơi ,đi rút xài ngon hơn bồ ơi 
+1099,làm j kì z thay lóc mới có nhiu tiền đâu ,"làm gì kì vậy, thay lốc mới có nhiêu tiền đâu "
+1100,còn như cách này thì khoang 2 lỗ hen bạn,còn như cách này thì khoan 2 lỗ hen bạn
+1101,binh xăng con đi putting 110,bình xăng con đi piston 110
