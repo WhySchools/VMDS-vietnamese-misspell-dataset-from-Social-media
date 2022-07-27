@@ -789,7 +789,7 @@ stt,wrong,right
 787,nghành y tế,ngành y tế
 788,giống như một lá dầy,giống như một lá dày
 789,cò nồi bị công như vậy ,cò nồi bị cong như vậy 
-790,anh ơi xe dọng nồi em kiểu tra chuồn heo thì không rơ,anh ơi xe dọng nồi em kiểm tra chuồng heo thì không rơ
+790,anh ơi xe dọng nồi em kiểu tra chuồn heo thì không rơ,anh ơi xe dộng nồi em kiểm tra chuồng heo thì không rơ
 791,quoảng cáo quá nhiều,quảng cáo quá nhiều
 792,cânr thận,cẩn thận
 793,hát tăng khán giả,hát tặng khán giả
@@ -1016,7 +1016,7 @@ stt,wrong,right
 1014,phen sử lý hú vía,phen xử lý hú vía
 1015,nhìn một đám tỡm thật,nhìn một đám tởm thật
 1016,ai mà rãnh hơi như tụi mài,ai mà rảnh hơi như tụi mày
-1017,dọng nòi là nhiều,dọng nồi là nhiều
+1017,dọng nòi là nhiều,dộng nồi là nhiều
 1018,ngạo -ngễ,ngạo nghễ
 1019,"đập bỏ lót đường cho xong , chở chị cho tốn phí","đập bỏ lót đường cho xong, chở chi cho tốn phí"
 1020,đúng i chang,đúng y chang
@@ -1042,3 +1042,685 @@ stt,wrong,right
 1040,mời bác sơi cơm,mời bác ăn cơm
 1041,cao thủ ẩn giật,cao thủ ẩn dật
 1042,nhà nghĩ,nhà nghỉ
+1043,"rớt đại học, éo sao hết?","rớt đại học, không sao hết?"
+1044,lm clip chỉnh mỏ dè wave nhỏ ngây vs bánh xe đi a,làm clip chỉnh mỏ dè wave nhỏ ngay với bánh xe đi anh
+1045,"quay lại chửi rau má,cá gổ, mất gốc luôn,buồn","quay lại chửi rau má, cá gỗ, mất gốc luôn,buồn"
+1046,giúp khôi phục nồi hét run lắc,giúp khôi phục nồi hết rung lắc
+1047,nó keo như cáy máy gạo,nó kêu như cái máy gạo
+1048,"chú ơi xe con lúc vô số đạp cần sâu xuống là dính lại, lúc nhắc chân lên nó nghe cái cốc","chú ơi xe con lúc vô số đạp cần sâu xuống là dính lại, lúc nhấc chân lên nó nghe cái cốc"
+1049,có thể do cốt cần số có bị công,có thể do cốt cần số có bị cong
+1050,nguyên nhân do làm bố nồi với đĩa pa pi muỗng nồi,nguyên nhân do làm bố nồi với đĩa ba bi muỗng nồi
+1051,khả năng cốt cần số nó ko như cốt củ,khả năng cốt cần số nó ko như cốt cũ
+1052,ban o dau vay gan thi gũi xe ban lam nhe ,"bạn ở đâu vậy, gần thì gửi xe bạn làm nhé "
+1053,anh có thể cho số điện thoại để mình dẽ trao đổi,anh có thể cho số điện thoại để mình dễ trao đổi
+1054,khả năng võ ti trước bị xước,khả năng vỏ ti trước bị xước
+1055,e kug k pit nua a,em cũng không biết nữa anh
+1056,ông mói khó nghe quá,ông nói khó nghe quá
+1057,"anh này siêu rồi mấy bạn, gỏ 1 2 búa là canh được","anh này siêu rồi mấy bạn, gõ 1 2 búa là canh được"
+1058,vì nó bị gãy bên cốt oa lăng,vì nó bị gãy bên cốt vô lăng
+1059,chia sẽ hay,chia sẻ hay
+1060,dên em mang đi ép quay tay bị sượng ko nhẹ,dên em mang đi ép quay tay bị sượng không nhẹ
+1061,cách xoáy nòng trên máy khoang bàn,cách xoáy nòng trên máy khoan bàn
+1062,miếng nong đền mỏng chống độ dơ anh tự tiện à,miếng long đền mỏng chống độ rơ anh tự tiện à
+1063,nếu có diệp bạn đến tham quan tiệm mình luôn thể,nếu có dịp bạn đến tham quan tiệm mình luôn thể
+1064,vậy lỗ ma den có sử lý ko hay cứ ép vào ah,vậy lỗ má dên có xử lý không hay cứ ép vào ạ
+1065,may ăn rồi làm khung la hay ,mày ăn rồi làm khùng là hay 
+1066,nhưng ông đóng thế kia ông có dám chắc là rắp vào zên ko bị cong hay lệch làm hư trái hư lòng không,"nhưng ông đóng thế kia, ông có dám chắc là ráp vào dên không bị cong hay lệch, làm hư trái hư lòng không"
+1067,xe của bạn bị công chảng pa rồi,xe của bạn bị cong chảng ba rồi
+1068,đóng vài búa xịt rp7 ròi vặn ra,"đóng vài búa, xịt rp7, rồi vặn ra"
+1069,rạt hay ban hiền minh học hỏi rất nhìu từ ban,"rất hay bạn hiền, mình học hỏi rất nhiều từ bạn"
+1070,thật nguy hiểm khi sên cam quá dùng,thật nguy hiểm khi sên cam quá chùng
+1071,cách dáng keo nồng bị lủn hay quá bạn ơi,cách dán keo lòng bị lủng hay quá bạn ơi
+1072,bênh anh có chế lửa 86 đề được không,bên anh có chế lửa 86 đề được không
+1073,người sủ dụng xe có biết yêu quý xe của mình không,người sử dụng xe có biết yêu quý xe của mình không
+1074,"ích có ái kĩ lưỡng đc như bạn,",ít có ai kĩ lưỡng được như bạn
+1075,hàng nhôm sẽ thiết phục khách hàng,hàn nhôm sẽ thuyết phục khách hàng
+1076,khắc phục lóc máy,khắc phục lốc máy
+1077,sao keo ab a dán nó bắm dữ vậy,sao keo ab anh dán nó bám dữ vậy
+1078,cách sử lý lốc máy bị thủng,cách xử lý lốc máy bị thủng
+1079,chia sẽ xử lí lốc máy,chia sẻ xử lí lốc máy
+1080,rườm rà chỉ cần 1cây sắt 6 uốn hơi cong đầu tí xíu đúc vào bẩy lên là nó sẻ ra thôi,rườm rà chỉ cần 1cây sắt 6 uốn hơi cong đầu tí xíu đút vào bẩy lên là nó sẽ ra thôi
+1081,chế rất hây va hữu ích ,chế rất hay và hữu ích 
+1082,trời ơi đợi gắng cảo vào tui sài kiềm xong lun oy ,"trời ơi đợi gắn cảo vào, tui xài kềm xong luôn rồi"
+1083,hay lắm sự phụ ,hay lắm sư phụ 
+1084,thì trường có bán nên mình cũng ko có chế,thị trường có bán nên mình cũng không có chế
+1085,lấy kìm bấm cậy cái song nhanh,"lấy kềm bấm cạy cái, xong, nhanh"
+1086,chẳn lẻ hồi giờ thợ sửa không lấy ra được hả,chẳng lẽ hồi giờ thợ sửa không lấy ra được hả
+1087,chẳn lẽ mua bộ tiện rẻ hơn cái kìm bấm hả,chẳng lẽ mua bộ tiện rẻ hơn cái kìm bấm hả
+1088,vấn đề nó gẩy chốt kẹp,vấn đề nó gãy chốt kẹp
+1089,ông chỉ cần đặc hàng a ấy làm,ông chỉ cần đặt hàng anh ấy làm
+1090,khắc phục giọng loc và xao máy,khắc phục dộng lốc và xào máy
+1091,quang trọng là người thợ sử lí khéo léo là ok,quan trọng là người thợ xử lí khéo léo là ok
+1092,phải rả máy làm mới đc hen bạn,phải rã máy làm mới được hen bạn
+1093,lm vậy cây dên bị lệch lo bạn ,làm vậy cây dên bị lệch không bạn 
+1094,rut lóc quá cứng rồi cũng bị kêu cọc cọc giống dọng lốc khắc phục sao v a,"rút lốc quá cứng, rồi cũng bị kêu cộc cộc giống dộng lốc, khắc phục sao vậy anh"
+1095,dọng nòi,dộng nồi
+1096,e đi rút lóc rui mà vẩn kêu,em đi rút lốc rồi mà vẫn kêu
+1097,kg ổn lắm chỉ sợ kg đồng tâm sẽ hú nồi ,"không ổn lắm, chỉ sợ không đồng tâm sẽ hú nồi "
+1098,đi rút sai ngon hơn bồ ơi ,đi rút xài ngon hơn bồ ơi 
+1099,làm j kì z thay lóc mới có nhiu tiền đâu ,"làm gì kì vậy, thay lốc mới có nhiêu tiền đâu "
+1100,còn như cách này thì khoang 2 lỗ hen bạn,còn như cách này thì khoan 2 lỗ hen bạn
+1101,binh xăng con đi putting 110,bình xăng con đi piston 110
+1102,do sai nhớt dỏm ,do xài nhớt dỏm 
+1103,cái trò củ nát này làm đi làm lại dân quá quen rồi.,"cái trò cũ nát này, làm đi làm lại dân quá quen rồi"
+1104,toàn bốc pét với chém gió ,toàn bốc phét với chém gió 
+1105,khắc phục tiếng dọng lóc máy khi đi dên lớn,khắc phục tiếng dộng lốc máy khi đi dên lớn
+1106,tiếng dọng lóc máy luôn ám ảnh thợ sữa xe,tiếng dộng lốc máy luôn ám ảnh thợ sửa xe
+1107,do bàn phím chức không phải do người ngõ sai,do bàn phím chứ không phải do người gõ sai
+1108,chế cảo vệ sinh lao ống vỏ ty phuộc sướt sét,"chế cảo vệ sinh lau ống vỏ ty phuộc xước, sét"
+1109,chế gá dớt mặt phẳng ,chế gá vớt mặt phẳng 
+1110,từ những nhạc phẩm trử tình,từ những nhạc phẩm trữ tình
+1111,chữi thề hay hỗn láo với trưởng bối,chửi thề hay hỗn láo với trưởng bối
+1112,tôn trọng sự thật sẻ được mọi người thông hiểu,tôn trọng sự thật sẽ được mọi người thông hiểu
+1113,"khả năng đọc ,hiểu của bạn quá kém cõi nên không hiểu người khác muốn nói gì","khả năng đọc, hiểu của bạn quá kém cỏi nên không hiểu người khác muốn nói gì"
+1114,"cách dớt đế nồi xe tay ga ,sài lâu bị mòn","cách vớt đế nồi xe tay ga, xài lâu bị mòn"
+1115,àm người có lúc củng yêu đuối ,làm người có lúc cũng yếu đuối 
+1116,xin chúa gìn giử bảo vệ các tu sĩ trong tình yêu chúa amen,xin chúa gìn giữ bảo vệ các tu sĩ trong tình yêu chúa amen
+1117,long trí các tu sĩ dc mạnh mẻ trong đức tin và đức mến ,long trí các tu sĩ được mạnh mẽ trong đức tin và đức mến 
+1118,chia sẽ đam mê - kết nối bạn bè,chia sẻ đam mê - kết nối bạn bè
+1119,các loại bố ba càn,các loại bố ba càng
+1120,chia sẽ kinh nghiệm chọn bố ba càng,chia sẻ kinh nghiệm chọn bố ba càng
+1121,cho mình hỏi mua keo về giáng ở đâu bán vị ạ,cho mình hỏi mua keo về dán ở đâu bán vậy ạ
+1122,lên đĩa sau mân hay lắm bạn,lên đĩa sau mâm hay lắm bạn
+1123,có thể gửi mâm a tiện cũi đĩa cho e ko,có thể gửi mâm anh tiện cùi đĩa cho em không
+1124,anh che ban cho em cai cao phuou nha anh,anh chế bán cho em cái cảo phuộc nha anh
+1125,bạn chia sẽ quá chính xác,bạn chia sẻ quá chính xác
+1126,chiếc pcx 2011 của mình lúc đi chở nặng 2 ng lớn thì bị gợn dải tốc 40-60,chiếc pcx 2011 của mình lúc đi chở nặng 2 người lớn thì bị gợn dãy tốc 40-60
+1127,khi các t.ử sĩ đi thi,khi các tử sĩ đi thi
+1128,bố nồi xe tay ga airblade 125 mòn tới càn ,bố nồi xe tay ga airblade 125 mòn tới càng
+1129,tụi báo chí giờ đang cố gắn ra sức giải cứu cho 2 anh,tụi báo chí giờ đang cố gắng ra sức giải cứu cho 2 anh
+1130,các công ty ở đây trước khi ra sản cần có business model,các công ty ở đây trước khi ra sàn cần có business model
+1131,khắc phục bố thắng kẹt kiêu không ăn thắng,"khắc phục bố thắng kẹt kêu, không ăn thắng"
+1132,khắc phục nhẹ và chau đảo đầu xe,khắc phục nhẹ và chao đảo đầu xe
+1133,lúc trước mình mề xem kênh,lúc trước mình mê xem kênh
+1134,lâu lâu nói lại cho công đồng nhớ chứ,lâu lâu nói lại cho cộng đồng nhớ chứ
+1135,"thằng tướng hèn, nhác gan","thằng tướng hèn, nhát gan"
+1136,tăng tặc một kẻ đang gây bảo về mọi mặt,tăng tặc một kẻ đang gây bão về mọi mặt
+1137,boi vi chung toi mang vong mau vn,bởi vì chúng tôi mang dòng máu việt nam
+1138,nếu có lổi thì thẳng thắng nhận lấy cái khuyết điểm của mình,nếu có lỗi thì thẳng thắn nhận lấy cái khuyết điểm của mình
+1139,chúng em quản ní chặt chẽ vùng trời,chúng em quản lí chặt chẽ vùng trời
+1140,sẳn sàng chiến đấu với người lạ,sẵn sàng chiến đấu với người lạ
+1141,"muốn ăn ít xăng mà dễ nổ ,lên thay chế hon da",muốn ăn ít xăng mà dễ nổ nên thay chế honda
+1142,a đả đọc bình luận cua e rồi phải khong thuoc đạc trị buoi sang chậm nổ hụp ga là nâng mực xang trong chén len 1 phát nổ ngay,"anh đã đọc bình luận của em rồi phải không, thuốc đặc trị buổi sáng chậm nổ hụp ga là nâng mực xăng trong chén lên 1 phát nổ ngay"
+1143,nhiu a em thợ cứ đổi thừa cái khoá xang,nhiều anh em thợ cứ đổ thừa cái khóa xăng
+1144,từ ngày ra tiệm súc rửa bình xăng tới giờ sáng đạp cái chạy hà nhưng em thấy hoa xăng hơn cách nào để khắc phục được không anh,"từ ngày ra tiệm súc rửa bình xăng tới giờ sáng đạp cái chạy hà, nhưng em thấy hao xăng hơn cách nào để khắc phục được không anh"
+1145,lúc trước moi mua cũng để qua đêm kéo le gió đạp cả chục cái mới chạy ,lúc trước mới mua cũng để qua đêm kéo e gió đạp cả chục cái mới chạy 
+1146,bố dài muốn thảnh bố ngắn thì lấy cưa sắt cắt bớt phần đầu,bố dài muốn thành bố ngắn thì lấy cưa sắt cắt bớt phần đầu
+1147,nói chugn ngon hơn zin,nói chung ngon hơn zin
+1148,bay bỏng,bay bổng
+1149,ối giời ơi,ối trời ơi
+1150,rửa tay gát kiếm,rửa tay gác kiếm
+1151,ai cũng ghéc bạn,ai cũng ghét bạn
+1152,tôi chốn học chiều ra net chơi,tôi trốn học chiều ra net chơi
+1153,chẳng đem lại lợi ít gì,chẳng đem lại lợi ích gì
+1154,lét đệp việt lam,nét đẹp việt nam
+1155,gọi sự chợ giúp,gọi sự trợ giúp
+1156,báo trí đưa tin,báo chí đưa tin
+1157,cmt xạo thì xạo sao chó đúng,comment xạo thì xạo sao cho đúng
+1158,mà ông nc mấy ông kia chửi đúng thật,mà ông nói chuyện mấy ông kia chửi đúng thật
+1159,"chưa có trạm bảo hành là chuyện thường, vì chưa có khách đặc mua","chưa có trạm bảo hành là chuyện thường, vì chưa có khách đặt mua"
+1160,"quang trọng nhất là xe chưa thử nghiệm an toàn giao thông, sự bên bị","quan trọng nhất là xe chưa thử nghiệm an toàn giao thông, sự bền bỉ"
+1161,vạch mặt chỉ tên những đứa láo khoét,vạch mặt chỉ tên những đứa láo toét
+1162,mang tiếng chứ hảnh diện gì,mang tiếng chứ hãnh diện gì
+1163,"thì rất bơ đỡ, pưng pô, nịnh hót","thì rất bợ đỡ, bưng bô, nịnh hót"
+1164,có 1 vài clips của ô ta tôi đã nghe,có 1 vài clips của ông ta tôi đã nghe
+1165,bán va chai chứ bán xe cái gì,bán ve chai chứ bán xe cái gì
+1166,mua xe đã qua xử dụng,mua xe đã qua sử dụng
+1167,trước khi phán thì tìm hiểu trước đả nha,trước khi phán thì tìm hiểu trước đã nha
+1168,trước khi qua canada theo diện kỷ năng,trước khi qua canada theo diện kỹ năng
+1169,nó đéo bao h bik quy luật bù trừ khi làm nồi,nó không bao giờ biết quy luật bù trừ khi làm nồi
+1170,hok cạ. ab mình đi k01 cũng hok cạ,không cạ. airblade mình đi k01 cũng không cạ
+1171,cách làm yamaha chạy bóc ít ăn xăng,cách làm yamaha chạy bốc ít ăn xăng
+1172,ít hao xăng thì chạy kg ngọt với xe cũ hai xăng nhiều nguyên nhân khác nữa,"ít hao xăng thì chạy không ngọt, với xe cũ hao xăng nhiều nguyên nhân khác nữa"
+1173,chia sẽ kinh nghiệm chữa dọng nồi cho anh em mới vô nghề,chia sẻ kinh nghiệm chữa dộng nồi cho anh em mới vô nghề
+1174,nga sợ hải điều động lực lượng khẩn cấp phòng thủ kherson ,nga sợ hãi điều động lực lượng khẩn cấp phòng thủ kherson 
+1175,cữu long,cửu long
+1176,và cũng là câu bất hữu,và cũng là câu bất hủ
+1177,nếu mà luột đồ thì đâu có dụ nhiều ng gửi ah làm náy,nếu mà luộc đồ thì đâu có vụ nhiều người gửi anh làm máy
+1178,xe canh dư xăng mà bugi vẫn trắng là do lữa mạnh hay s chú,xe canh dư xăng mà bugi vẫn trắng là do lửa mạnh hay sao chú
+1179,nòng kiến là xoáy không được phải không anh,lòng kiếng là xoáy không được phải không anh
+1180,​thôi đừng fót nữa đầu trọc nó nhột á a ơi,​thôi đừng phốt nữa đầu trọc nó nhột á anh ơi
+1181,tui thấy sửa xong chiếc xe tính tiền chống mặt luôn,tui thấy sửa xong chiếc xe tính tiền chóng mặt luôn
+1182,kẻ nói lồng vòng mất của,kẻ nói lòng vòng mất của
+1183,có nhiều ông thợ lâu năm ko biết tặng xên,có nhiều ông thợ lâu năm không biết tăng sên
+1184,a có sữa xe ko a,anh có sửa xe không anh
+1185,con phái chú quá r haha,con khoái chú quá rồi haha
+1186,50 lên 70 làm bích tông bạc mà sau nhớt nó rịnh giọt giọt chổ con ốc bô là sau a,"50 lên 70 làm piston bạc, mà sao nhớt nó rịn giọt giọt chỗ con ốc bô, là sao anh"
+1187,e theo anh hồi anh ở tiệm củ á,em theo anh hồi anh ở tiệm cũ á
+1188,mà bích tôg bạc mới chưg rít mới lun mà nóg lên còn rịnh chỉ chỗ ốc bô,"mà piston bạc mới, chân gít mới luôn, mà nóng lên còn rịn chỉ chỗ ốc bô"
+1189,ông hài thiệc sự,ông hài thiệt sự
+1190,vua hài tục tiễu trở lại,vua hài tục tĩu trở lại
+1191,cho mīnh hoi là,cho mình hỏi là
+1192,nói chính xát hai thằng đó đâu có gì đâu mà vn làm lên như nỗi lắm vậy,"nói chính xác hai thằng đó đâu có gì đâu, mà việt nam làm lên như nổi lắm vậy"
+1193,hàng dõm,hàng dỏm
+1194,truất quá,chất quá
+1195,bán de chai ah?,bán ve chai à?
+1196,khí anh đưa vào buồn đốt không phải là lượng khí có nhiều oxy,khí anh đưa vào buồng đốt không phải là lượng khí có nhiều oxy
+1197,"cái superchage, nó phải cần chế xã áp nữa","cái supercharge, nó phải cần chế xả áp nữa"
+1198,gà có run kim ở mắt,gà có giun kim ở mắt
+1199,mít ước,mít ướt
+1200,đồ dỡm,đồ dỏm
+1201,xin nhận tại hạ 1 lại,xin nhận tại hạ 1 lạy
+1202,cảm mơn anh ,cảm ơn anh 
+1203,mai mốt ai hỏi sao bạn biết vệ sinh nồi mình sẻ nói kênh này dạy,mai mốt ai hỏi sao bạn biết vệ sinh nồi mình sẽ nói kênh này dạy
+1204,zui quá ước gì mình cũng được trải nghiệm bắt cá như vậy một lần,vui quá ước gì mình cũng được trải nghiệm bắt cá như vậy một lần
+1205,hôm nay bên mỹ vẫn là thứ bẩy,hôm nay bên mỹ vẫn là thứ bảy
+1206,lên bờ cái là nhà nước quãng lý,lên bờ cái là nhà nước quản lý
+1207,kĩ úc về tuổi thơ mò cua bắt ốc,kí ức về tuổi thơ mò cua bắt ốc
+1208,đẳng cấp dọ xe nước ngoài công nhận trinh cao và thực tế dể sợ,đẳng cấp độ xe nước ngoài công nhận trình cao và thực tế dễ sợ
+1209,chúc a guộc và gia đình sức khỏe,chúc anh ruột và gia đình sức khỏe
+1210,chời lâu mới thấy ổng ra video tưởn bị ảnh sát mỷ cho vào xong sắt r chứ,trời lâu mới thấy ổng ra video tưởng bị cảnh sát mỹ cho vào song sắt rồi chứ
+1211,"e nhớ lời lạnh nên tune giảm xăng,trời nóng thêm xăng mát máy chứ","em nhớ trời lạnh nên tune giảm xăng, trời nóng thêm xăng mát máy chứ"
+1212,được của ló anh ơiiiii ,được của nó anh ơi
+1213,tưỡng idol qua u cà na,tưởng idol qua ukraine
+1214,tui thích cái áo khoát ,tui thích cái áo khoác
+1215,cá gì tốt thì không nên thay đỗi,cái gì tốt thì không nên thay đổi
+1216,xe này chạy đằm nếu đi đường đèo dốc,xe này chạy đầm nếu đi đường đèo dốc
+1217,giàn vỏ chắc chắn,dàn vỏ chắc chắn
+1218,chơi lớn vậy lở gặp công an là mất luôn cả xe,chơi lớn vậy lỡ gặp công an là mất luôn cả xe
+1219,chính sát,chính xác
+1220,hiếm phải nới tới suzuki,hiếm phải nói tới suzuki
+1221,nv mình mới mua đc xe ngon giá rẽ,như vậy mình mới mua được xe ngon giá rẻ
+1222,cộng nhận nó bền thật,công nhận nó bền thật
+1223,làm gọn 1 tí sẻ hay hơn,làm gọn 1 tí sẽ hay hơn
+1224,tất cả xe x xe cũ bán giá rớt thêm thảm.,tất cả xe x xe cũ bán giá rớt thê thảm.
+1225,đúng rồi nouvo mấy đời đầu ăn xăng quá nên người ta nãn,đúng rồi nouvo mấy đời đầu ăn xăng quá nên người ta nản
+1226,xe này nhiều ae dọn kiểng nhìn ác lắm,xe này nhiều anh em dọn kiểng nhìn ác lắm
+1227,"x thời trước làm xe ok lúc sao xe chán lắm ,xe nào cũng dỡ","x thời trước làm xe ok, lúc sau xe chán lắm, xe nào cũng dở"
+1228,x h đi ì máy kinh khủng,x giờ đi ì máy kinh khủng
+1229,hở 1 cái xe nào x là mua chứ ko cần pk nó tệ cỡ nào nói thiệt,"hễ 1 cái xe nào x là mua, chứ không cần biết nó tệ cỡ nào, nói thiệt"
+1230,riêng tôi thì x chạy rất tuyệt còn y chạy giốg như rặg đẻ,riêng tôi thì x chạy rất tuyệt còn y chạy giống như rặng đẻ
+1231,sr cái này thiếu sót của mình,"sorry cái này thiếu sót của mình,"
+1232,có tư tưởng zậy mấy thằng bán xe cũ mới giàu ,có tư tưởng vậy mấy thằng bán xe cũ mới giàu 
+1233,fu led có nhược điểm chết người đó là dẽ vỡ bánh tăng cam. ,fu led có nhược điểm chết người đó là dễ vỡ bánh tăng cam. 
+1234,muốn an tòa thì cứ hãng honda mà mua ,muốn an toàn thì cứ hãng honda mà mua 
+1235,chỗ mn k biết thế nào,chỗ mọi người không biết thế nào
+1236,cách làm hết kêu đĩa sau ex 150.hiểu quả,cách làm hết kêu đĩa sau exciter 150 hiệu quả
+1237,đúng vậy em xịch nước chạy thì không kêu,đúng vậy em xịt nước chạy thì không kêu
+1238,luật sư cải thắng cho x cũng là đàn bà,luật sư cãi thắng cho x cũng là đàn bà
+1239,cọng lông nách dài 1 găng tây,cọng lông nách dài 1 gang tay
+1240,cái giọng đáng iu thiệt chứ,cái giọng đáng yêu thiệt chứ
+1241,nếu 16 năm chước em này đóng chắc thành thần tượng,nếu 16 năm trước em này đóng chắc thành thần tượng
+1242,đầu tư dử,đầu tư dữ
+1243,quên luôn bản góc rồi,quên luôn bản gốc rồi
+1244,bản này lại phái,bản này lại khoái
+1245,đg bùn mk xem vieo này bùn cười chết ik đc,đang buồn mà xem video này buồn cười chết đi được
+1246,hai gi ma tuc tiêu qua ông ơi,hài gì mà tục tĩu quá ông ơi
+1247,toàn trân thất hiệp doãn chí bình,toàn chân thất hiệp doãn chí bình
+1248,hướng dẫn gáp nồi xe wave rsx 110,hướng dẫn ráp nồi xe wave rsx 110
+1249,cái này tôi sài lâu rồi nhưng dỡ lắm,cái này tôi xài lâu rồi nhưng dở lắm
+1250,ngày mới vui vẽ nha,ngày mới vui vẻ nha
+1251,bố hãng cũng dán thui bạn mà nhầm khi còn mau chóc mặt bố nữa,bố hãng cũng dán thôi bạn mà nhiều khi còn mau tróc mặt bố nữa
+1252,cách dớt bố nồi xe tay ga chuẩn,cách vớt bố nồi xe tay ga chuẩn
+1253,điều đặc biệt nó làm từ magie forged chứ k phãi aluminium forged như marchesini làm cho v4s,điều đặc biệt nó làm từ magnesium forged chứ không phải aluminum forged như marchesini làm cho v4s
+1254,cmt như v bít ngay dân chơi nữa mùa,comment như vậy biết ngay dân chơi nửa mùa
+1255,số xe này ở mỷ giá trị hiên tại khoản nhiu,số xe này ở mỹ giá trị hiên tại khoảng nhiêu
+1256,để xem khoản cách giữa giá trị ở vn là bao nhiu tien,để xem khoảng cách giữa giá trị ở việt nam là bao nhiêu tiền
+1257,số xe này nếu giờ ở việt nam ai mà sở hửu được thì là đại gia chắc rồi,số xe này nếu giờ ở việt nam ai mà sở hữu được thì là đại gia chắc rồi
+1258,anh hiểu biết rộng lời nói rất dể mến nhưg tiết cho a giờ k còn đường về vn,"anh hiểu biết rộng, lời nói rất dễ mến, nhưng tiếc cho anh giờ không còn đường về việt nam"
+1259,ko ngờ người ae mình đi chơi với loại này,không ngờ người anh em mình đi chơi với loại này
+1260,lủ bán nước,lũ bán nước
+1261,tr ơi mê quá à,trời ơi mê quá à
+1262,natf cỡ đám bò đỏ 100 năm nữa k mua nổi,này cỡ đám bò đỏ 100 năm nữa không mua nổi
+1263,chuyên nhẩy xe sg,chuyên nhảy xe sài gòn
+1264,em đừng có nỏ quá anh thấy ngứa lổ tai,em đừng có nổ quá anh thấy ngứa lỗ tai
+1265,ông chơi xe cổ nhìn lai lai dế choắc,ông chơi xe cổ nhìn lai lai dế choắt
+1266,coi dậy chứ cũng ghiền ráng dô coi đi coi lại mấy lần,coi vậy chứ cũng ghiền ráng vô coi đi coi lại mấy lần
+1267,chạy ngang mấy xe hơi nhìn tiếu dell chịu đc,chạy ngang mấy xe hơi nhìn tếu không chịu được
+1268,"nhìn vid của bác ghiền,thiệt chứ giờ 67 zin kiếm vn thấy tía luôn kiếm k ra","nhìn video của bác ghiền thiệt chứ, giờ 67 zin kiếm việt nam thấy tía luôn kiếm không ra"
+1269,thg mà bác ghim phát biểu ngu vl,"thằng mà bác ghim, phát biểu ngu quá"
+1270,mấy xe của anh coi thấy da quá,mấy xe của anh coi thấy đã quá
+1271,vẫn có những thứ xưa củ,vẫn có những thứ xưa cũ
+1272,quá nể phục a về kiến thức xe cỗ,quá nể phục anh về kiến thức xe cổ
+1273,hoi con ở việt nam a học nghề của ai vậy anh,hồi còn ở việt nam anh học nghề của ai vậy anh
+1274,quý nhất máy món đồ si mà nỏi chưng chim,quý nhất mấy món đồ xi mà nổi chân chim
+1275,đây là dam mê chơi xe cỗ chứ ko phải chạy theo thời,đây là đam mê chơi xe cổ chứ không phải chạy theo thời
+1276,lừa người kg hiễu xe cỗ,lừa người không hiểu xe cổ
+1277,nói dễ hiễu mèo khen trâu gật đầu,nói dễ hiểu mèo khen trâu gật đầu
+1278,mấy pác lanh quá.chắc cũng một đống người thích cỗ đặt gạch,mấy bác lanh quá. chắc cũng một đống người thích cổ đặt gạch
+1279,tui nghèo nhưng kg tạo clip lừa tộc,tui nghèo nhưng không tạo clip lừa lọc
+1280,dù gì các pác azua cứ sủa cho trọn tập.tôi ít học xem mấy pác cũng như con trâu con bò,dù gì các bác a dua cứ sủa cho trọn tập. tôi ít học xem mấy bác cũng như con trâu con bò
+1281,ai mượn mày dô coi,ai mượn mày vô coi
+1282,đống này mà ơ việt nam tiền tỉ,đống này mà ở việt nam tiền tỉ
+1283,tg re rech xuyên tac ban nc nhăg ve chai,"thằng giẻ rách xuyên tạc, bán nước, nhặt ve chai"
+1284,đi nhầm dầy tây,đi nhầm giày tây
+1285,xe đẹp rẽ ở x giá trên trời khó mua,xe đẹp rẻ ở x giá trên trời khó mua
+1286,xuất sứ: malaysia ,xuất xứ: malaysia 
+1287,làm vậy cở bảo nhiêu tiền vậy a,làm vậy cỡ bao nhiêu tiền vậy anh
+1288,"ko hiểu sao honda ra future 2,future x cải tiến sài thằng lằng tăng cam tự động như sirius bền hơn","không hiểu sao honda ra future 2, future x cải tiến xài thằn lằn tăng cam tự động như sirius bền hơn"
+1289,tuy nhiên mầu nâu vàng ,tuy nhiên màu nâu vàng 
+1290,giao háng tương đối nhanh mùa dịch không nằm trong vùng cách ly ,giao hàng tương đối nhanh mùa dịch không nằm trong vùng cách ly 
+1291,khi va chạm ĩt bị vỡ,khi va chạm ít bị vỡ
+1292,chứ còn gì nửa... tạo ra sự giả dối kg thành thật là mất niềm tin cho dn mình rồi dn khác,chứ còn gì nữa. tạo ra sự giả dối không thành thật là mất niềm tin cho doanh nghiệp mình rồi doanh nghiệp khác
+1293,khắc phục xe yếu rung giựt,"khắc phục xe yếu rung, giật"
+1294,vô số bị giựt là do côn kô cắt hết,vô số bị giật là do côn không cắt hết
+1295,a cho em hỏi xe của em đi hay bị rung bên cần xố tê chân quá.va đi ga nhỏ giật giật tắt máy,anh cho em hỏi: xe của em đi hay bị rung bên cần số tê chân quá và đi ga nhỏ giật giật tắt máy
+1296,bình cũ e thay bình mới dô cũng vậy á,bình cũ em thay bình mới vô cũng vậy á
+1297,vì mình sợ video dày quá các bạn xem bị nản,vì mình sợ video dài quá các bạn xem bị nản
+1298,xe x gì đó đả registered ở dmv trong tiểu bang wa chưa mà có bản số,xe x gì đó đã registered ở dmv trong tiểu bang wa chưa mà có bảng số
+1299,được mỏi cái logo của,được mỗi cái logo của
+1300,bản số ở đâu thì ở đó phạt,bảng số ở đâu thì ở đó phạt
+1301,hãng xe được mỏi cái logo vậy mà tự hào hả bò,hãng xe được mỗi cái logo vậy mà tự hào hả bò
+1302,mình mói đi theo làm lại pasport cho mẹ mình,mình mới đi theo làm lại passport cho mẹ mình
+1303,nghĩ cuk tội cho kiếp bưng bô,nghĩ cũng tội cho kiếp bưng bô
+1304,chưa được tests thì làm sao mà đem ra bản,chưa được test thì làm sao mà đem ra bán
+1305,đang theo giõi,đang theo dõi
+1306,hổ trợ,hỗ trợ
+1307,hổ tro,hỗ trợ
+1308,có tiền để cuộc sống xung xướng ,có tiền để cuộc sống sung sướng 
+1309,tôi hổ trợ anh tỷ hai đô,tôi hỗ trợ anh tỷ hai đô
+1310,nghe rõ bớt nhãm,nghe rõ bớt nhảm
+1311,chứ x mà đầu tư mỡ cơ sở lắp ráp,chứ x mà đầu tư mở cơ sở lắp ráp
+1312,tây phương k thíc ồn ào,tây phương không thích ồn ào
+1313,diện đẩu tư phải trên năm trăm ngàn,diện đầu tư phải trên năm trăm ngàn
+1314,đọc xong thấy móc tỷ đô của mỹ đế dễ như đi vô bưng chống mỹ kíu nước,đọc xong thấy móc tỷ đô của mỹ đế dễ như đi vô bưng chống mỹ cứu nước
+1315,xứ thiên đường gì xả sùng hoài vậy,xứ thiên đường gì xả súng hoài vậy
+1316,hôm trước thì nói xe không thể bán ở mỷ,hôm trước thì nói xe không thể bán ở mỹ
+1317,tư duy làm ăn chụp dựt báo nháo như vậy,tư duy làm ăn chụp giật bát nháo như vậy
+1318,dặt mũi như dặt chó,dắt mũi như dắt chó
+1319,bố mẽo ,bố mỹ
+1320,tâm công ty x thì việc gì họ phải chạy biến số giả,tầm công ty x thì việc gì họ phải chạy biến số giả
+1321,người ta có hắn công ty,người ta có hẳn công ty
+1322,thể hiện đi đừng nói mỗm nữa,thể hiện đi đừng nói mõm nữa
+1323,cộng quà,cộng hòa
+1324,chỉ dề lấy cái hào nhoáng dánh bóng bên ngoài,chỉ về lấy cái hào nhoáng đánh bóng bên ngoài
+1325,rất tiết các cháu rời quân ngũ còn vật làm kỹ niệm,rất tiếc các cháu rời quân ngũ còn vật làm kỷ niệm
+1326,nhìn các cháu chú bậc khóc,nhìn các cháu chú bật khóc
+1327,hẩy noi gương cha ông và học tập điều tốt nhé,hãy noi gương cha ông và học tập điều tốt nhé
+1328,vào bảy rác mỷ xin xe tăng mỷ về đánh,vào bãi rác mỹ xin xe tăng mỹ về đánh
+1329,đăng ký qua mỷ đi lính cho thỏa thích,đăng ký qua mỹ đi lính cho thỏa thích
+1330,người lính mỹ trước khi hành quân trưởng bị rước kỷ,người lính mỹ trước khi hành quân chuẩn bị rất kỹ
+1331,một ngày sửa lại bao xe bị lổi cho anh em,một ngày sửa lại bao xe bị lỗi cho anh em
+1332,sên cam nó bị trùng có hú k a,sên cam nó bị chùng có hú không anh
+1333,đem sảng phẩm ra nước ngoài bán,đem sản phẩm ra nước ngoài bán
+1334,tưởng để ăn tiền của ngoại lắm hả con,tưởng dễ ăn tiền của ngoại lắm hả con
+1335,thì biết tài năng và đức độ cở nào rồi,thì biết tài năng và đức độ cỡ nào rồi
+1336,cứ trọc ngoáy ông ấy suốt vậy,cứ chọc ngoáy ông ấy suốt vậy
+1337,chu di tam tộc,tru di tam tộc
+1338,thụt lưởi,thụt lưỡi
+1339,"lời nói, thại độ","lời nói, thái độ"
+1340,thắm nhuần tư tưởng,thấm nhuần tư tưởng
+1341,“sáng tạo” và “chí tệ”,“sáng tạo” và “trí tuệ”
+1342,giảy chết,giãy chết
+1343,nhìn lãnh đạo xứ ngừi ta tài giỏi bà quá tự trọng,nhìn lãnh đạo xứ người ta tài giỏi và quá tự trọng
+1344,cở đó rôi ma lái ghê thật,cỡ đó rồi mà lái ghê thật
+1345,lãnh đạ anh khẻo mạnh và min mẫn quá. toàn dân việt nam ủng hôn ông,lãnh đạo anh khỏe mạnh và minh mẫn quá. toàn dân việt nam ủng hộ ông
+1346,ngoài ra o biết gì nữa cả,ngoài ra không biết gì nữa cả
+1347,may bay bà già,máy bay bà già
+1348,rất thích thích ông nầy bình luận canh me ko bỏ xót bữa nào,"rất thích, thích ông này bình luận, canh me không bỏ sót bữa nào"
+1349,cảm giác run rẫy,cảm giác run rẩy
+1350,mình dân làm tiêu củng đã sáng chế rất nhiều thứ rồi,"mình dân làm tiêu, cũng đã sáng chế rất nhiều thứ rồi"
+1351,hây lắm a ơi ,hay lắm anh ơi 
+1352,cho qua rele để nhẹ điện hơn,cho qua relay để nhẹ điện hơn
+1353,đấu công tắt đảo chiều tới lui,đấu công tắc đảo chiều tới lui
+1354,giới quá ,giỏi quá 
+1355,trả có thợ nào ngu vậy đâu. có trăng ông dậy clip thôi,chả có thợ nào ngu vậy đâu. có chăng ông dạy clip thôi
+1356,sống đánh tuột quần,sóng đánh tuột quần
+1357,không nói náo và nàm bậy,không nói láo và làm bậy
+1358,nước xốt,nước sốt
+1359,yểu địu thục lữ,yểu điệu thục nữ
+1360,dấu day dảo chieu vao vo motor la duoc,đấu dây đảo chiều vào vỏ motor là được
+1361,mặt dóng dọng nói dóng kên x,"mặt giống, giọng nói giống kênh x"
+1362,helo anh,hello anh
+1363,còn nhungex người chăm chỉ lao động,còn những người chăm chỉ lao động
+1364,em ko giám tranh luận ạ,em không dám tranh luận ạ
+1365,kễ cã hãi ngoại,kể cả hải ngoại
+1366,ngang là ngỗng,ngan là ngỗng
+1367,trứng nuột,trứng luộc
+1368,1 kí rau muốn bằng 1 kí thịt bò,1 kí rau muống bằng 1 kí thịt bò
+1369,"trg siêu thị - trc 29,900 / 1 vĩ 10 tr nay là 34,900 / 1 vĩ","trong siêu thị - trước 29,900 / 1 vỉ 10 trứng nay là 34,900 / 1 vỉ"
+1370,em mới mua cơm hồi sáng thịch tang 100 mấy 1k rồi ,em mới mua cơm hồi sáng thịt tăng 100 mấy 1 kg rồi 
+1371,"rứng gà, vịt mắc thì ăn trứng cúc","trứng gà, vịt mắc thì ăn trứng cút"
+1372,sàm sở,sàm sỡ
+1373,x bán rou ,x bán rồi 
+1374,ngạo nghệ quá vn ơi,ngạo nghễ quá việt nam ơi
+1375,tụi nó bốc lọt đồng bào ghê quá,tụi nó bóc lột đồng bào ghê quá
+1376,dzử dzằn ta,dữ dằn ta
+1377,đại gia caffe tây nguyên mà than dử vậy,đại gia cafe tây nguyên mà than dữ vậy
+1378,cái hình móc bọc lựm ve chai đăng lên fb của e nó cũng xóa đâu mất,cái hình móc bọc lượm ve chai đăng lên fb của em nó cũng xóa đâu mất
+1379,bé yêu của a hôm nay e có đi làm kg e ?,bé yêu của anh hôm nay em có đi làm không em?
+1380,xe ôm khá rẽ,xe ôm khá rẻ
+1381,bơ thừa sửa cặng,bơ thừa sữa cặn
+1382,kể chuyện hay nhứt youtube,kể chuyện hay nhất youtube
+1383,giờ nàm sao chỉ biết cười nhăn răng,giờ làm sao chỉ biết cười nhăn răng
+1384,rắng đi năm 2035 sẽ tới,ráng đi năm 2035 sẽ tới
+1385,35tr là phần nỗi,35 triệu là phần nổi
+1386,quan thì wa giàu,quan thì quá giàu
+1387,để giả lợ cho x nhá,để trả nợ cho x nhá
+1388,vụ đường sắt các linh,vụ đường sắt cát linh
+1389,làm 1 năm k dư mấy đồng,làm 1 năm không dư mấy đồng
+1390,chỉ để làm giầu cho,chỉ để làm giàu cho
+1391,dân shilanka ơi,dân sri lanka ơi
+1392,giả lợ cho x chứ nàm gì,trả nợ cho x chứ làm gì
+1393,vì sẽ xui xẻo lúm,vì sẽ xui xẻo lắm
+1394,ba tôi lôi tui vô cơ quan tắm ăn cơm về đở tốn,ba tôi lôi tui vô cơ quan tắm ăn cơm về đỡ tốn
+1395,nên qiao dục,nền giáo dục
+1396,nge ca trù là ớn ah,nghe ca trù là ớn ạ
+1397,xe ôm công nghệ thu gần 27% đó m.n,xe ôm công nghệ thu gần 27% đó mọi người
+1398,nhà em có 1 cái bóng đèn led và xém tí là vức đi rồi,nhà em có 1 cái bóng đèn led và xém tí là vứt đi rồi
+1399,kg nên nói đúng sai,không nên nói đúng sai
+1400,bạn hướng dẫn sửa bóng đèn lét hay quá,bạn hướng dẫn sửa bóng đèn led hay quá
+1401,xe chạy khắp ca ly,xe chạy khắp california
+1402,nãnh đạo trung ương,lãnh đạo trung ương
+1403,đánh thuế tiêu thụ đặt biệt,đánh thuế tiêu thụ đặc biệt
+1404,người dân trong nước dang cho x trở lại,người dân trong nước đang chờ x trở lại
+1405,chống nại loa kéo rây ồn ào,chống lại loa kéo gây ồn ào
+1406,hãng toàn lý do lý chấu từ chối bh dù vga nguyên vẹn ko cháy nổ,hãng toàn lý do lý trấu từ chối bảo hành dù vga nguyên vẹn không cháy nổ
+1407,anh ơi card này chơi pikachu có lag hong anh,anh ơi card này chơi pikachu có lag không anh
+1408,dang sài gt740 của colorful day,đang xài gt740 của colorful đây
+1409,giờ không biề khóc hay cười trời,giờ không biết khóc hay cười trời
+1410,rtx 3000 hãng x lam tot,rtx 3000 hãng x làm tốt
+1411,máy quay còn k quang trọng bằng ổ cứng,máy quay còn không quan trọng bằng ổ cứng
+1412,thể nào nhiều ng cứ nghĩ mua về làm việc các kiểu,thể nào nhiều người cứ nghĩ mua về làm việc các kiểu
+1413,ôi cái dèng máy của thằng bẹn khủng quá. cái kẹc mèn hình cũng mắc quá,ôi cái dàn máy của thằng bạn khủng quá. cái card màn hình cũng mắc quá
+1414,thì đã từng ckơi mà,thì đã từng chơi mà
+1415,haha lúc trc tao chơi nét max cùi bắp luôn mà 1 máy treo đc 20 acc có auto tắt xuống luyện skill phê,haha lúc trước tao chơi net max cùi bắp luôn mà 1 máy treo được 20 account có auto tắt xuống luyện skill phê
+1416,chước luyện người đc h ko đc. tính điểm kill đánh quoai.đánh mà bị né nó cũng ko tính,"trước luyện người được, giờ không được. tính điểm kill đánh quái. đánh mà bị né nó cũng không tính"
+1417,mình tạo vps ảo máy trạm cty,"mình tạo vps ảo, máy trạm công ty"
+1418,dt cột dây thun haha cao thủ ,điện thoại cột dây thun haha cao thủ 
+1419,anh ơi cho em hỏi anh ý có dậy các chạy auto nox,anh ơi cho em hỏi anh ý có dạy cách chạy auto nox
+1420,mình muồn cày kiếm tiền bạn hướng dẫn minh đc k minh cám ơn,mình muốn cày kiếm tiền bạn hướng dẫn mình được không mình cám ơn
+1421,bác cho em hỏi cái gươn của xe winner vs,bác cho em hỏi cái gương của xe winner với
+1422,gướng đó là gướng của x đó bạn,gương đó là gương của x đó bạn
+1423,máy cày ách quá kết nghĩa ae nha,máy cày oách quá kết nghĩa anh em nha
+1424,còn mày làm gỉ cho đời,còn mày làm gì cho đời
+1425,bước ra ngoài mà xem xh phát triển,bước ra ngoài mà xem xã hội phát triển
+1426,khổ gì họ kiếm tiền còn may di làm ở ngoài ,khổ gì họ kiếm tiền còn mày đi làm ở ngoài 
+1427,của hàng cũa a ở đâu vậy e quá mua linh kiện ,của hàng của anh ở đâu vậy em qua mua linh kiện 
+1428,anh em nên bình tĩnh để có cách sử lý nhé,anh em nên bình tĩnh để có cách xử lý nhé
+1429,binh thường làm máy khoản bao nhiu ,bình thường làm máy khoảng bao nhiêu 
+1430,lòng săc với lòng nhôm,lòng sắt với lòng nhôm
+1431,"xe x hư bơm xăng có xưa đc kg anh,hay là bo thay bơm xăng mới","xe x hư bơm xăng có sửa được không anh, hay là bỏ thay bơm xăng mới"
+1432,nay mai ghé anh làm lại dàng hơi và lửa nha anh ,nay mai ghé anh làm lại dàn hơi và lửa nha anh 
+1433,"chất e goi bưu điện chất ăn , xa wa hk bk đường đi","chắc em gọi bưu điện chắc ăn , xa quá không biết đường đi"
+1434,tess xe cuốc,test xe cuốc
+1435,coi trể rồi anh,coi trễ rồi anh
+1436,bải ở đâu anh ,bãi ở đâu anh 
+1437,cái ông đó có bt gì đâu e,cái ông đó có biết gì đâu em
+1438,kim phun do mac ko ,kim phun đó mắc không 
+1439,hãng bảo trì thì bảo bị cong zen cho nên có tiếng kêu,hãng bảo trì thì bảo bị cong dên cho nên có tiếng kêu
+1440,ng trong nghề thì sẽ hiểu,người trong nghề thì sẽ hiểu
+1441,thợ máy iu nghề như tụi tui chỉ ngán,thợ máy yêu nghề như tụi tui chỉ ngán
+1442,dòng này dân chơi xe tầm kinh lắm xe bùa phép yếu bóng día bợ về sữa mệt,dòng này dân chơi xe tầm kinh lắm xe bùa phép yếu bóng vía bợ về sửa mệt
+1443,do mình ở quê ko đống thuế ko đống tiền mặc bằng nên lúc nào cũng rẻ ở sg hết nha bạn,do mình ở quê không đóng thuế không đóng tiền mặt bằng nên lúc nào cũng rẻ ở sài gòn hết nha bạn
+1444,mong bạn xem góp ý nầy,mong bạn xem góp ý này
+1445,cái dòng x nó vậy đó nó càn cũ nó lại ngon nhất,cái dòng x nó vậy đó nó càng cũ nó lại ngon nhất
+1446,cho mình sinh số điện thoại,cho mình xin số điện thoại
+1447,từ cần thơ lên tới bạn khoãng bao nhiêu km,từ cần thơ lên tới bạn khoảng bao nhiêu km
+1448,mua xe cũ làm ơn mấy thánh ne dong xe future neo ra,mua xe cũ làm ơn mấy thánh né dòng xe future neo ra
+1449,nên chia xẻ cho bà con biết mấy vụ,nên chia sẻ cho bà con biết mấy vụ
+1450,ông này có tốt hơn máy ah youtube ko? bám hay khog bám,ông này có tốt hơn mấy anh youtuber không? bám hay không bám
+1451,ngta cug thog tin của mỹ và tgioi đó,người ta cũng thông tin của mỹ và thế giới đó
+1452,vậy ôg đã làm dc gì cho dân vn chưa,vậy ông đã làm được gì cho dân việt nam chưa
+1453,phản biện kiểu này thì cug thế thoii,phản biện kiểu này thì cũng thế thôi
+1454,tới đâu là gây chia rẻ tới đó,tới đâu là gây chia rẽ tới đó
+1455,ki thuât tien ban gioi wa,kỹ thuật tiện bạn giỏi quá
+1456,"bạn tin ý quá,theo bạn máy quay mới này có đc ko ạ","bạn tinh ý quá, theo bạn máy quay mới này có được không ạ"
+1457,xe nào chảng pa bọng nhẹ là làm được ,xe nào chảng ba bọng nhẹ là làm được 
+1458,máy j mà thấy đi lanh dữ zi a ,máy gì mà thấy đi lanh dữ vậy anh 
+1459,"cho e hỏi xe e khi chạy qua gờ giảm tốc hay xụp ổ gà là đầu xe bị chao đảo, là bị gì, khắc phục thế nào","cho em hỏi: xe em khi chạy qua gờ giảm tốc hay sụp ổ gà là đầu xe bị chao đảo, là bị gì, khắc phục thế nào"
+1460,nhưng mình làm cây cai hơi công sâu chúc lấy rất dễ kg quá 1p,"nhưng mình làm cây cạy hơi cong sâu chút, lấy rất dễ không quá 1 phút"
+1461,chú ở an giang chổ nào vậy chú,chú ở an giang chỗ nào vậy chú
+1462,cay nạy vỏ ra cungr lém ,cây nạy vỏ ra cứng lắm 
+1463,phuộc sau của em nó như kỉu mất hơi,phuộc sau của em nó như kiểu mất hơi
+1464,thay ty phuoc như vậy. khoản bao nhieu tiền vậy anh,thay ty phuộc như vậy khoảng bao nhiêu tiền vậy anh
+1465,"bạn nên lắp đầu bò dre , nồng 70 hoặc 72","bạn nên lắp đầu bò dre, lòng 70 hoặc 72"
+1466,địa chỉ mình ở đâu.mình muốn sữa xe,địa chỉ mình ở đâu? mình muốn sửa xe
+1467,cảm ơn a đã chia sẽ,cảm ơn anh đã chia sẻ
+1468,sai ty kafai dc k ae,xài ty kafai được không anh em
+1469,mình kấy chân phuộc si gắn qua phuộc wave đc k a,mình lấy chân phuộc si gắn qua phuộc wave được không 
+1470,moi lam nhúng kiêu ong cũng đâu noi kieu,mới làm nhún kêu ông cũng đâu nói kêu
+1471,mình nói bạn nghe ne nhửng ai góp ý đánh giá là phát bạc đạn và có thể dẩn đến dên gảy là đa số là thợ sửa xe nha bạn ! ,mình nói bạn nghe nè những ai góp ý đánh giá là phá bạc đạn và có thể dẫn đến dên gãy là đa số là thợ sửa xe nha bạn
+1472,gì người ta nắm được nguyên tắt vật lý về động cơ cho nên người ta mới góp ý và nói như vậy !,vì người ta nắm được nguyên tắc vật lý về động cơ cho nên người ta mới góp ý và nói như vậy!
+1473,"mấy th kêu làm v hư bi dên gãy dên bể lốc... là mấy th chưa từng làm, chưa từng thấy, ngta làm cả ngàn chiếc r, thím nào chưa làm thử đi r biết, nói bằng kinh nghiệm thực tế đi","mấy thằng kêu làm vậy hư bi dên, gãy dên, bể lốc... là mấy thằng chưa từng làm, chưa từng thấy, người ta làm cả ngàn chiếc rồi, thím nào chưa làm thử đi rồi biết, nói bằng kinh nghiệm thực tế đi"
+1474,bánh trớn mà không cần tròn thì phá máy nứt sưởn xe,bánh trớn mà không cân tròn thì phá máy nứt sườn xe
+1475,không cân băng động rất dẻ xì nhớt,không cân bằng động rất dễ xì nhớt
+1476,cong thúc đơn giản nhất để anh em chế xe dễ hiêu,công thức đơn giản nhất để anh em chế xe dễ hiểu
+1477,độ như vậy độ bền có ảnh hưởng dì k a ,độ như vậy độ bền có ảnh hưởng gì không anh
+1478,anh làm như w bên nặng bên nhẹ nó không đồng nó sẻ phá bạc đạn dên,anh làm như vậy bên nặng bên nhẹ nó không đồng nó sẽ phá bạc đạn dên
+1479,củng mất một phần vận tóc gì vục không điều,cũng mất một phần vận tốc vì giục không đều
+1480,anh oi lam vậy có gãy chục cơ ko anh,anh ơi làm vậy có gãy trục cơ không anh
+1481,qua lăng kiềng cái này cũng lâu r cũng có tác dụng lắm,"vô lăng kiềng, cái này cũng lâu rồi, cũng có tác dụng lắm"
+1482,làm vậy tạo ra độ dục mạnh cho xe,làm vậy tạo ra độ giục mạnh cho xe
+1483,làm vậy tạo ra độ dục mạnh cho xe,làm vậy tạo ra độ quăng mạnh cho xe
+1484,chú làm vậy dễ gãy dên lắm tại vì bên qualăng quay tự do không có vòng bi giữ đầu dên lại neu lm z phai chế vòng bi cố dinh dau den bên qualang moi dc,"chú làm vậy dễ gãy dên lắm tại vì bên vô lăng quay tự do không có vòng bi giữ đầu dên lại, nếu làm vậy phải chế vòng bi cố định đầu dên bên vô lăng mới được"
+1485,anh làm nhiều líp ẩm thực hơn đi ,anh làm nhiều clip ẩm thực hơn đi 
+1486,không pik ngon ham nhưng mà đợt dịch vừa rồi mấy anh bộ đội cho lương khô ngon chết ng,"không biết ngon không, nhưng mà đợt dịch vừa rồi mấy anh bộ đội cho lương khô ngon chết ngất"
+1487,lúc thì bảo nhật nhẽo rồi ăn đúng cái ngọt lại bảo quá ngọt,"lúc thì bảo nhạt nhẽo, rồi ăn đúng cái ngọt lại bảo quá ngọt"
+1488,ông này mà ngồi ghế ct hạ viện hoa kỳ thì không ổn ,ông này mà ngồi ghế chủ tịch hạ viện hoa kỳ thì không ổn 
+1489,sao những lời nói khí nghe cứ xuất phát từ x nghe phát ói,sao những lời nói khi nghe cứ xuất phát từ x nghe phát ói
+1490,đáng lý ra câi giải thưởng nhân quyền trao tặng cho,đáng lý ra cái giải thưởng nhân quyền trao tặng cho
+1491,đi láy scooter,đi lấy scooter
+1492,viễn văn cảm động và hay nhất,diễn văn cảm động và hay nhất
+1493,bạn đừng bị xốc,bạn đừng bị sốc
+1494,giương đông kích tây,dương đông kích tây
+1495,phương tây bị khủng hoảng khi câm vân nga,phương tây bị khủng hoảng khi cấm vận nga
+1496,ko giám cắn đâu,không dám cắn đâu
+1497,ở mỷ phap luât vui thiệt,ở mỹ pháp luật vui thiệt
+1498,phỉ bán người khác,phỉ báng người khác
+1499,có cái thèng trùm cuối quái thai,có cái thằng trùm cuối quái thai
+1500,"sài gòn mưa tầm tả, mưa quá trời","sài gòn mưa tầm tã, mưa quá trời"
+1501,chính là bọn mẽo nato phương tây mới thấm thía đấy,"chính là bọn mỹ, nato, phương tây mới thấm thía đấy"
+1502,tao đét sợ chẳng lẽ sợ mày,tao không sợ chẳng lẽ sợ mày
+1503,một mình chấp cã khối châu âu và mỹ,một mình chấp cả khối châu âu và mỹ
+1504,tàu hú nhiều hơn óc mà bạn,tàu hủ nhiều hơn óc mà bạn
+1505,còn hok thì tự tu tại gia,còn không thì tự tu tại gia
+1506,ông nôp tự bây,ông nội tụi bây
+1507,sứng đáng là anh cả con dân vn,xứng đáng là anh cả con dân việt nam
+1508,bớp nghẹt tiếng nói người dân thấp cổ bé họng,bóp nghẹt tiếng nói người dân thấp cổ bé họng
+1509,thì lun nói ra những đều trái với đạo lí,thì luôn nói ra những đều trái với đạo lí
+1510,"nếu ông có những suy nghĩ ngây ngô lệt lạc cũng là vấn đề cá nhân, có thể ng ta bị bệnh tâm lý","nếu ông có những suy nghĩ ngây ngô lệch lạc cũng là vấn đề cá nhân, có thể người ta bị bệnh tâm lý"
+1511,để báo chí và bọn youtuber vào bôi nhọa vu khống,để báo chí và bọn youtuber vào bôi nhọ vu khống
+1512,zậy cho dừa nồl mấy,vậy cho vừa lòng mấy
+1513,sử vụ này đông người quá mức à,xử vụ này đông người quá mức à
+1514,t thix thờ phụng ai t thờ,tôi thích thờ phụng ai tôi thờ
+1515,báo trí viết rùm beng,báo chí viết rùm beng
+1516,dân mỹ thay bin xe còn mắc hơn chiếc xe,dân mỹ thay pin xe còn mắc hơn chiếc xe
+1517,hoa sen nỡ trong lòng chế độ vô thần,hoa sen nở trong lòng chế độ vô thần
+1518,bán nhan,bán nhang
+1519,vẩn ở nhà,vẫn ở nhà
+1520,trung ưng,trung ương
+1521,không có tính điềm tỉnh,không có tính điềm tĩnh
+1522,đọc kỷ chử trên logo,đọc kỹ chữ trên logo
+1523,sẳn dịp hỏi ông,sẵn dịp hỏi ông
+1524,để ace vào chia xẻ nữa đâu,để anh chị em vào chia sẻ nữa đâu
+1525,buỗi sáng nhiều năng lực,buổi sáng nhiều năng lượng
+1526,đổi tên thành nước lổ,đổi tên thành nước lỗ
+1527,anh viết mâ cứ y như đang tua lại camera,anh viết mà cứ y như đang tua lại camera
+1528,a nói chuyện kiểu bất cần quá,anh nói chuyện kiểu bất cần quá
+1529,moi đầu nói sữa đầu lòng,mới đầu nói sửa đầu lòng
+1530,2 đệ tử nghĩ mấy tháng rồi bạn,2 đệ tử nghỉ mấy tháng rồi bạn
+1531,xe này cũng tới luôn sữa lại ngon lành ,xe này cũng tới luôn sửa lại ngon lành 
+1532,thằng nào sài xe nay tui cũng chịu k con gi miêu tả,thằng nào xài xe này tui cũng chịu không còn gì miêu tả
+1533,nhìn muống bỏ nghề ,nhìn muốn bỏ nghề 
+1534,cốt dên qua lăng mà hàn đắp thủ công vậy k quơ bể mâm lửa cũng uổng,"cốt dên vô lăng mà hàn đắp thủ công, vậy không quơ bể mâm lửa cũng uổng"
+1535,sữa con xe này hết bao nhiêu tiền,sửa con xe này hết bao nhiêu tiền
+1536,pittong ngắn được hơn dài ha a. ,piston ngắn được hơn dài hả anh. 
+1537,bac co videos nào mài mui khoan săt bén k vay ,bác có videos nào mài mũi khoan sắt bén không vậy 
+1538,dễ tăng tốc hơn khi gặp dóc cao nha,dễ tăng tốc hơn khi gặp dốc cao nha
+1539,ban oi cho mình hoi cô hut có tiêng keu khò khò la bi xao vây ,bạn ơi cho mình hỏi cổ hút có tiếng kêu khò khò là bị sao vậy 
+1540,múm đi đường trường nhẹ nhàng thì lên den 110,muốn đi đường trường nhẹ nhàng thì lên dên 110
+1541,theo mình xe leo dóc nặng cho xe dư máy khỏe hơn xe dênh lớn,"theo mình xe leo dốc nặng, cho xe dư máy khỏe hơn xe dên lớn"
+1542,gắn bản số giả đã là có tội,gắn bảng số giả đã là có tội
+1543,vậy nên hạnh nhứt nó đi qua mỹ qua âu châu đó anh ơi,"vậy nên hạng nhất nó đi qua mỹ, qua âu châu đó anh ơi"
+1544,cô kỳ nhông con của ông kỳ đầ nói trong shou room mua xe,cô kỳ nhông con của ông kỳ đà nói trong showroom mua xe
+1545,bộ ngoại giao vs lảnh sự quán ,bộ ngoại giao với lãnh sự quán 
+1546,khắc phục xe cúp lên trái chạy nặng nề không bóc,khắc phục xe cub lên trái chạy nặng nề không bốc
+1547,đầu lòng 110 ik cháy đầu lòi đc ko thầy ,đầu lòng 110 đi trái đầu lồi được không thầy 
+1548,tùy theo mòn đồ,tùy theo món đồ
+1549,thay mấy món như vậy hết nhiu vậy chú,thay mấy món như vậy hết nhiêu vậy chú
+1550,anh cho em hỏi là chiếc cub của em xoáy lên cót 2 đầu 100 nồi 7 búa mà chạy ko nỗi yếu lắm bị đỏ cổ pô nữa anh chỉ em với,"anh cho em hỏi là chiếc cub của em xoáy lên cos 2, đầu 100, nồi 7 búa mà chạy không nổi, yếu lắm bị đỏ cổ bô nữa anh chỉ em với"
+1551,nếu xe róng máy thì do bố và hợp số nên lên 4 số,"nếu xe rống máy thì do bố và hộp số, nên lên 4 số"
+1552,chưa từng dx rã máy,chưa từng được rã máy
+1553,nắng lại được mà bạn,nắn lại được mà bạn
+1554,e có cây dên bị hư gởi cho a xử lý lại đc k? ,em có cây dên bị hư gửi cho anh xử lý lại được không? 
+1555,e có cây dên bị hư gởi cho a xử lý lại đc k? ,em có cây dên bị hư gởi cho anh xử lý lại được không? 
+1556,minh mẩn ,minh mẫn 
+1557,chế chảng ba phuộc sài cho xe wave dream,chế chảng ba phuộc xài cho xe wave dream
+1558,cảo độc võ đạn đùm xe máy siêu bền,cảo độc vỏ đạn đùm xe máy siêu bền
+1559,luật sư nầy đã đạt đến đĩnh thượng thừa,luật sư này đã đạt đến đỉnh thượng thừa
+1560,a cho e hỏi từ cót 0 xoáy lên cót 1 trái pitton thì mình có đi đc ron quy lát zin k,anh cho em hỏi từ cos 0 xoáy lên cos 1 trái piston thì mình có đi được ron quy lát zin không
+1561,xe máy rất im nha cả nhà,xe máy rất êm nha cả nhà
+1562,có độ phủ tùng kg a,có độ phụ tùng không anh
+1563,a e lâng cấp axelo nhớ thay sên cam,anh em nâng cấp axelo nhớ thay sên cam
+1564,ép ty chén ba không cần tháu vỏ ống phuột,ép ty chảng ba không cần tháo vỏ ống phuộc
+1565,ép lạy chạy có như mới k ,ép lại chạy có như mới không
+1566,chia sẽ nòng ngắn nòng dài cho anh em mới làm nghề,chia sẻ lòng ngắn lòng dài cho anh em mới làm nghề
+1567,giờ chơi lại raider 2015 mới khát bọt,giờ chơi lại raider 2015 mới khác biệt
+1568,đấp nhôm xài bền k a,đắp nhôm xài bền không anh
+1569,"thợ máy, hay sợ máy, phát máy tội cho người ta ","thợ máy, hay sợ máy, phá máy tội cho người ta "
+1570,cảm ơn anh đã chia sẽ,cảm ơn anh đã chia sẻ
+1571,sao kg đi thử xem,sao không đi thử xem
+1572,nhưng có lẻ bị đối xử tệ,nhưng có lẽ bị đối xử tệ
+1573,lượt chảy đầu,lược chải đầu
+1574,người đã chuyền cảm hứng,người đã truyền cảm hứng
+1575,cá chê chấm mắm gừng,cá trê chấm mắm gừng
+1576,ốc đó xiếc nhẹ tay thôi,ốc đó xiết nhẹ tay thôi
+1577,chứng tỏ bản nề tốt,chứng tỏ bản lề tốt
+1578,đỉnh kao chí tuệ loài người,đỉnh cao trí tuệ loài người
+1579,người rừng ko đến lỗi,người rừng không đến nỗi
+1580,đến đêm khônh bị khó ngủ,đến đêm không bị khó ngủ
+1581,cũng tính ngưởng giữ lắm,cũng tín ngưỡng dữ lắm
+1582,mình có gì chưa mà kêu nó chộm cướp,"mình có gì chưa, mà kêu nó trộm cướp"
+1583,mình khônah thể nào tháo được volan,mình không thể nào tháo được volant
+1584,bệnh rung máy rung sường,bệnh rung máy rung sườn
+1585,cho e hỏi mua cái qua lăng nào thai dc cho dream thái,cho em hỏi mua cái vô lăng nào thay được cho dream thái
+1586,phải đổi lóc gì đoa,phải đổi lốc gì đó
+1587,cuoc seng gap c0 sip cos khong anh oi,cuốc xẻng gấp có ship cod không anh ơi
+1588,"quá tàn nhẩn, ác độc","quá tàn nhẫn, ác độc"
+1589,chế độ vô pháp vô thi dựng lên bởi những người vô liêm sĩ mới làm điều bất công tán tận lương tâm nầy,"chế độ vô pháp vô thiên, dựng lên bởi những người vô liêm sỉ, mới làm điều bất công táng tận lương tâm này"
+1590,không đọc ác không phải là x,không độc ác không phải là x
+1591,dậy mà đi hởi đồng bào ơi,dậy mà đi hỡi đồng bào ơi
+1592,"trơ trẻn, đồi bại","trơ trẽn, đồi bại"
+1593,bẩy việt vị,bẫy việt vị
+1594,so qua may cho bac tai,sợ quá may cho bác tài
+1595,quá nghê ngớm,quá ghê gớm
+1596,"10ngan an vậy dc rồi, bây giờ bước ra chợ mua cái gì cũng mắt,","10 ngàn ăn vậy được rồi, bây giờ bước ra chợ mua cái gì cũng mắc"
+1597,trời ơi bánh bo nay ban loi lắm luôn,trời ơi bánh bò này bán lời lắm luôn
+1598,"có vẻ bánh bò hơi đắc, nếu ngon thì mau dào lun","có vẻ bánh bò hơi mắc, nếu ngon thì mau giàu luôn"
+1599,đánh soay bi mà trưa thấy cao thủ nào đánh cả,đánh xoay bi mà chưa thấy cao thủ nào đánh cả
+1600,thèm cơm tấm gke,thèm cơm tấm ghê
+1601,1 chiếc chó mê traii,1 con chó mê trai
+1602,anh hô đẹp chai quá chời,anh hô đẹp trai quá trời
+1603,"ở nhật láy xe cũg ngược chiều, quốc gia nào đã từg bi anh đô hộ, láy xe toàn bên trái","ở nhật lái xe cũng ngược chiều, quốc gia nào đã từng bị anh đô hộ, lái xe toàn bên trái"
+1604,thúc dục,thúc giục
+1605,ai chưởi tui đâu có chưởi,ai chửi tui đâu có chửi
+1606,mấy nước nóng,máy nước nóng
+1607,sâm lược,xâm lược
+1608,"đó phương pháp mà luu bị đã dùng để đánh giặc. đó là dương đông kít tây , âp dụng rất thanh công","đó phương pháp mà lưu bị đã dùng để đánh giặc. đó là dương đông kích tây, áp dụng rất thành công"
+1609,gây tai nạn cho ng khác,gây tai nạn cho người khác
+1610,bắt nỗi trính tã,bắt lỗi chính tả
+1611,sửa máy tính bản,sửa máy tính bảng
+1612,không biết thiệc luôn,không biết thiệt luôn
+1613,cây lắm lại bảo ko cay đi,cay lắm lại bảo không cay đi
+1614,đừng vì 1 vài cá nhân mà nôi cả miền người ta vào,đừng vì 1 vài cá nhân mà lôi cả miền người ta vào
+1615,cứ từ từ làm z dx j đâu,cứ từ từ làm vậy được gì đâu
+1616,than khung moi lam vay,thằng khùng mới làm vậy
+1617,trong bánh ma có may cay tăm thì xong,trong bánh mà có mấy cây tăm thì xong
+1618,ong bò vẽ,ong vò vẽ
+1619,như thế này trả thằng nào nó tắt nhạc,như thế này chả thằng nào nó tắt nhạc
+1620,cực z mng,cực vậy mọi người
+1621,bưởi trà bá lun,bưởi chà bá luôn
+1622,ah còn sống ko,anh còn sống không
+1623,hay wa,hay quá
+1624,xin cái viên bản đề em đi cái,xin cái biên bản để em đi cái
+1625,ai bảo k xứng,ai bảo không xứng
+1626,nguy trang đỉnh thật,ngụy trang đỉnh thật
+1627,hột vịt giữa,hột vịt dữa
+1628,hột vịt giữa,hột vịt vữa
+1629,trời nạnh nắm,trời lạnh lắm
+1630,đánh giấu cột mốc,đánh dấu cột mốc
+1631,"cắn miếng nước, uống miếng bánh","cắn miếng bánh, uống miếng nước"
+1632,có í mĩa mai,có ý mỉa mai
+1633,mèo zô xụng,mèo vô dụng
+1634,chứ ko lẽ đag lm việc mặc đầm,chứ không lẽ đang làm việc mặc đầm
+1635,tiền ăm phủ,tiền âm phủ
+1636,xe này đi xai là trắc rùi,xe này đi sai là chắc rồi
+1637,đường tron chợt,đường trơn trượt
+1638,sao dậy b?,sao vậy bạn?
+1639,xu cao thuế nặng,sưu cao thuế nặng
+1640,giá một trăm hai mươi năm nghìn,giá một trăm hai mươi lăm nghìn
+1641,mấy bạn cho tui hổi,mấy bạn cho tui hỏi
+1642,bình gas nấu ân,bình gas nấu ăn
+1643,rât tàn ác giã man,rất tàn ác dã man
+1644,nước vịt lam,nước việt nam
+1645,hát xông có bị làm phiền khong,hát xong có bị làm phiền không
+1646,xin lổi khán giả,xin lỗi khán giả
+1647,nếu tôi đi vô chủa tu thì tôi,nếu tôi đi vô chùa tu thì tôi
+1648,đây chỉ la nề nếp trong gia đình,đây chỉ là nề nếp trong gia đình
+1649,vun đắp cho tinh thất,vun đắp cho tịnh thất
+1650,5 luật sư uỗng công học luật,5 luật sư uổng công học luật
+1651,thích nhật tiền,thích nhặt tiền
+1652,sắp sửa có may bay siu tan hình,sắp sửa có máy bay siêu tàng hình
+1653,ủa dậy hả,ủa vậy hả
+1654,"giỏ thì nó ghét , dở nó khinh ,văn minh tiêu diệt ","giỏi thì nó ghét, dở nó khinh, văn minh tiêu diệt "
+1655,nó cầm dao rược không vô thế,nó cầm dao rượt không vô thế
+1656,bà quang ngại hả,bà quan ngại hả
+1657,chỉ học chiêu long chảo thủ thôi,chỉ học chiêu long trảo thủ thôi
+1658,nhăng răng le lưỡi,nhăn răng le lưỡi
+1659,chúng ăn tận xương tỷ,chúng ăn tận xương tủy
+1660,tôi đã từng học 16 thế võ đễ bắt gà thôi,tôi đã từng học 16 thế võ để bắt gà thôi
+1661,em nghe nảy gio,em nghe nãy giờ
+1662,gia tài của mẹ môt lủ người rừng,gia tài của mẹ một lũ người rừng
+1663,nghe tin tg thấy nhẹ nhàng hảnh diện cho họ,nghe tin thế giới thấy nhẹ nhàng hãnh diện cho họ
+1664,củng có tự ái chớ,cũng có tự ái chớ
+1665,ngồi kế bên hường hết ,ngồi kế bên hưởng hết 
+1666,nó chia rẻ anh em,nó chia rẽ anh em
+1667,"cô là một ng bà, ng mẹ yêu thương các con cháu","cô là một người bà, người mẹ yêu thương các con cháu"
+1668,nga hình như bi hục hơi roi,nga hình như bị hụt hơi rồi
+1669,chuồn luôn một mạnh mất tích luôn,chuồn luôn một mạch mất tích luôn
+1670,chúc a có nhìu sức khỏe,chúc anh có nhiều sức khỏe
+1671,cái này ty bị công,cái này ty bị cong
+1672,cũng đang tình trạng bị lệch tay láy một bên,cũng đang tình trạng bị lệch tay lái một bên
+1673,đau thiệc,đau thiệt
+1674,nghe lâu cx hay,nghe lâu cũng hay
+1675,bạn chị bệnh hay quá ,bạn trị bệnh hay quá 
+1676,a không cê chỗ ty phuộc tì vào săt vs độ ép đó sước ty thì sao anh,"anh không kê chỗ ty phuộc tì vào sắt, với độ ép đó xước ty thì sao anh"
+1677,e bị công cây ty do va chạm xe,em bị cong cây ty do va chạm xe
+1678,đó là 1 cập nha bạn,đó là 1 cặp nha bạn
+1679,chih vay gja nhiu tien vay a ,chỉnh vậy giá nhiêu tiền vậy anh 
+1680,viết theo ý của quý vị để gời cho các tổ chức quốc tế,viết theo ý của quý vị để gửi cho các tổ chức quốc tế
+1681,diễn giã nữa ah,diễn giả nữa à
+1682,cái mỗm lép chép như đàn bà,cái mồm lép chép như đàn bà
+1683,tán tận lương tâm,táng tận lương tâm
+1684,các lảnh đạo,các lãnh đạo
+1685,cuối cùng cx kiếm đc ,cuối cùng cũng kiếm được
+1686,sao thang kia dống như hoàng phi hồng,sao thằng kia giống như hoàng phi hồng
+1687,phim này mik coi hồi năm 2010,phim này mình coi hồi năm 2010
+1688,hog bt nếu có kiểu sức mạnh,không biết nếu có kiểu sức mạnh
+1689,cắm sạt xe ,cắm sạc xe 
+1690,ai muốn biết mình khôn hay ngưu,ai muốn biết mình khôn hay ngu
+1691,bị ông chơi khâm,bị ông chơi khăm
+1692,rất an toàn chống trộm xạc,rất an toàn chống trộm sạc
+1693,xem dân như câc món đồ chơi của họ,xem dân như các món đồ chơi của họ
+1694,e củng làm ngề xe nè a,em cũng làm nghề xe nè anh
+1695,lúc đó e củng nản lắm.,lúc đó em cũng nản lắm.
+1696,mình bảo em bình tinh,mình bảo em bình tĩnh
+1697,đèn pha lét nên mau hỏng bình,đèn pha led nên mau hỏng bình
+1698,"làm nghề này , nhiều cái bị đổi thừa ","làm nghề này, nhiều cái bị đổ thừa "
+1699,tình ngay ký gian,tình ngay lý gian
+1700,ông công nhận ông kiên trì gê bái phục,ông công nhận ông kiên trì ghê bái phục
+1701,thợ có tâm qa cho trìu like,thợ có tâm quá cho triệu like
+1702,làm không ăn được bao nhiu,làm không ăn được bao nhiêu
+1703,cảm ơn quí vị quảng cáo miễm phí cho sô xuyên việt dấu chân địa đàng,cảm ơn quí vị quảng cáo miễn phí cho show xuyên việt dấu chân địa đàng
+1704,em sữa xe rất có tâm trong nghề,em sửa xe rất có tâm trong nghề
+1705,lập chuổi nhà hàng triệu đô xạo,lập chuỗi nhà hàng triệu đô xạo
+1706,tiêm sưa xe mih ơ đâu nhỉ,tiệm sửa xe mình ở đâu nhỉ
+1707,còn gặp ông sài nhớt nhật của xe bãi từ 94 đến 2000 mới thay,còn gặp ông xài nhớt nhật của xe bãi từ 94 đến 2000 mới thay
+1708,xăng giảm mà tất cả mặt hàng lên hết a..potay luôn,xăng giảm mà tất cả mặt hàng lên hết anh. bó tay luôn
+1709,mỗi lần làm tin tức điều xem cả,mỗi lần làm tin tức đều xem cả
+1710,xe ếch bà đẹp quá hỉ,xe vespa đẹp quá nhỉ
+1711,"cách dớt đế nhôm ,bố nồi chích rảnh","cách vớt đế nhôm, bố nồi chích rãnh"
+1712,"vòi ,keo và cao su bỏ vào trong võ mua ở đâu vậy?","vòi, keo và cao su bỏ vào trong vỏ mua ở đâu vậy?"
+1713,trường hợp móc ra zô nhiều lần nó rách mép,trường hợp móc ra vô nhiều lần nó rách mép
+1714,giới thiệu quảng bá nghe dử tợn lắm,giới thiệu quảng bá nghe dữ tợn lắm
+1715,xem tr q có giám bắn ko,xem trung quốc có dám bắn không
+1716,nếu con xe kiển mà làm đủ vừa lòng nước,nếu con xe kiểng mà làm đủ vừa lòng nước
+1717,hôm nào a gán chế cái lòng nước cho wave luôn đi anh,hôm nào anh ráng chế cái lòng nước cho wave luôn đi anh
+1718,ko cần chỉ xài công tắt riêng nếu đi ít,"không cần, chỉ xài công tắc riêng nếu đi ít"
+1719,bánh pạn nướng sẳn luôn hả pạn,bánh bạn nướng sẵn luôn hả bạn
+1720,về sài gòn thiệt tui rũ ông đi uống cafe,về sài gòn thiệt tui rủ ông đi uống cafe
+1721,thúc dục bà đến đài loan,thúc giục bà đến đài loan
+1722,nhân dân đài loan thật hảnh diện,nhân dân đài loan thật hãnh diện
+1723,yêu cầu của anh là chính đấng,yêu cầu của anh là chính đáng
+1724,rửa xe như video bạn chía sẻ thì giá bao nhiêu,rửa xe như video bạn chia sẻ thì giá bao nhiêu
