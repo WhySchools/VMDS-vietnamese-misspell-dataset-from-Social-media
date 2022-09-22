@@ -6,7 +6,7 @@ Dữ liệu được tập hợp thông qua các cuộc trò chuyện, bình lu�
 
 ## Nguyên tắc thu thập dữ liệu chính tả của nhóm
 Một số nguyên tắc thu thập dữ liệu tin tức trên mạng xã hội mà chúng tôi áp dụng:
-1. Trích dẫn, lấy một phần dữ liệu hoặc lấy hoàn toàn dữ liệu từ các bình luận, trao đổi trên các mạng xã hội thông dụng tại Việt Nam, tuy nhiên các thông tin liên quan đến thông tin cá nhân của những người có liên quan đến nội dung sẽ được loại bỏ hoặc xử lý. Ví dụ: chú X gặp chú Y, anh X có đi làm không,...
+1. Trích dẫn, lấy một phần dữ liệu hoặc lấy hoàn toàn dữ liệu từ các bình luận, trao đổi trên các mạng xã hội thông dụng tại Việt Nam, tuy nhiên các thông tin liên quan đến thông tin cá nhân của những người có liên quan đến nội dung sẽ được loại bỏ hoặc xử lý. Ví dụ: __chú X gặp chú Y__, __anh X có đi làm không__,...
 2. Chủ đề thu thập không giới hạn, các chủ đề như: xe cộ, kinh tế, chính trị, giáo dục, y tế,... là mảnh đất màu mỡ của việc tranh luận trên mạng xã hội và cũng là nguồn dữ liệu vô hạn về chính tả tiếng Việt - cả ngôn ngữ nói và ngôn ngữ viết, cả hàn lâm lẫn bình dân, cả từ ngữ thông dụng và phương ngữ.
 
 ## Danh sách các tập dataset khác về chủ đề chính tả tiếng Việt
