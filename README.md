@@ -1,6 +1,8 @@
 # Vietnamese Misspell Dataset - Tập dữ liệu chính tả tiếng Việt trên mạng xã hội
 
-Dữ liệu được tập hợp thông qua các cuộc trò chuyện, bình luận trên các mạng xã hội, các đánh giá trên các trang thương mại điện tử thông dụng tại Việt Nam, với mục tiêu mở rộng thêm nguồn dữ liệu chính tả ngôn ngữ tiếng Việt, bên cạnh các nguồn dữ liệu chính tả hàn lâm thông dụng hiện tại như: Wikipedia, VNTC,... 
+Dữ liệu được tập hợp thông qua các cuộc trò chuyện, bình luận trên các mạng xã hội, các đánh giá trên các trang thương mại điện tử thông dụng tại Việt Nam, với mục tiêu mở rộng thêm nguồn dữ liệu chính tả ngôn ngữ tiếng Việt, bên cạnh các nguồn dữ liệu chính tả hàn lâm thông dụng hiện tại như: Wikipedia, VNTC,...
+
+Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: [thanh.hoquang@pm.me](mailto:thanh.hoquang@pm.me), và vui lòng dẫn nguồn của repo này trong bài viết của bạn:
 
 Đóng góp dữ liệu tại: [___dataset collecting form___](https://forms.gle/YnE7nseD48dvhta4A)
 
