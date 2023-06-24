@@ -1,4 +1,4 @@
-# Vietnamese Misspell Dataset - Tập dữ liệu chính tả tiếng Việt trên mạng xã hội
+# Vietnamese Misspell Dataset from Social Media - Tập dữ liệu chính tả tiếng Việt trên mạng xã hội
 
 Dữ liệu được tập hợp thông qua các cuộc trò chuyện, bình luận trên các mạng xã hội, các đánh giá trên các trang thương mại điện tử thông dụng tại Việt Nam, với mục tiêu mở rộng thêm nguồn dữ liệu chính tả ngôn ngữ tiếng Việt, bên cạnh các nguồn dữ liệu chính tả hàn lâm thông dụng hiện tại như: Wikipedia, VNTC,...
 
