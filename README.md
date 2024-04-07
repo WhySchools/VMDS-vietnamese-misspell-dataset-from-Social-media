@@ -1,5 +1,9 @@
 # Vietnamese Misspell Dataset from Social Media - Tập dữ liệu chính tả tiếng Việt trên mạng xã hội
 
+
+
+[![DOI](https://zenodo.org/badge/499798982.svg)](https://zenodo.org/doi/10.5281/zenodo.10938147)
+
 Dữ liệu được tập hợp thông qua các cuộc trò chuyện, bình luận trên các mạng xã hội, các đánh giá trên các trang thương mại điện tử thông dụng tại Việt Nam, với mục tiêu mở rộng thêm nguồn dữ liệu chính tả ngôn ngữ tiếng Việt, bên cạnh các nguồn dữ liệu chính tả hàn lâm thông dụng hiện tại như: Wikipedia, VNTC,...
 
 Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: [thanh.hoquang@pm.me](mailto:thanh.hoquang@pm.me), và vui lòng dẫn nguồn của repo này trong bài viết của bạn:
