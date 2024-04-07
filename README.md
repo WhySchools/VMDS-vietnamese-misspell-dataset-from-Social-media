@@ -20,3 +20,15 @@ Một số nguyên tắc thu thập dữ liệu tin tức trên mạng xã hội
 1. [VNTC](https://github.com/duyvuleo/VNTC): bộ dữ liệu của tác giả [duyvuleo](https://github.com/duyvuleo)
 2. Các bộ dữ liệu liên quan đến Vi-Wiki: [Dữ liệu chưa xử lý](https://dumps.wikimedia.org/viwiki/latest/), đã xử lý bởi [heraclex12](https://github.com/heraclex12/Viwiki-spelling)
 3. [Github Typo Corpus](https://github.com/mhagiwara/github-typo-corpus/issues): Dữ liệu tổng hợp các lỗi chính tả từ các commit trên Github của Masato Hagiwara and Masato Mita, cấu trúc tương tự như bộ Wiki, tuy nhiên tiếng Việt chỉ là một trong 15 ngôn ngữ (hình như chỉ có khoảng 40 cases là tiếng Việt), nhưng với kích thước của bộ dataset này phù hợp cho việc phát triển các ứng dụng đa ngôn ngữ
+
+```@software{thanh_h_2024_10938148,
+  author       = {Thanh, H},
+  title        = {{VFND/VMDS-vietnamese-misspell-dataset-from-Social- 
+                   media: VMDS version 0.0.1: 5100 cases}},
+  month        = apr,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v0.0.1.005},
+  doi          = {10.5281/zenodo.10938148},
+  url          = {https://doi.org/10.5281/zenodo.10938148}
+}```
