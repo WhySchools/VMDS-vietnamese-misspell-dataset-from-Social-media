@@ -12,7 +12,7 @@ Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: [t
 
 ## Nguyên tắc thu thập dữ liệu chính tả của nhóm
 Một số nguyên tắc thu thập dữ liệu tin tức trên mạng xã hội mà chúng tôi áp dụng:
-1. Trích dẫn, lấy một phần dữ liệu hoặc lấy hoàn toàn dữ liệu từ các bình luận, trao đổi trên các mạng xã hội thông dụng tại Việt Nam, tuy nhiên các thông tin liên quan đến thông tin cá nhân của những người có liên quan đến nội dung sẽ được loại bỏ hoặc xử lý. Ví dụ: _chú X gặp chú Y_, _anh X có đi làm không_,...
+1. Trích dẫn, lấy một phần dữ liệu hoặc lấy hoàn toàn dữ liệu từ các bình luận, trao đổi trên các mạng xã hội thông dụng tại Việt Nam, tuy nhiên các thông tin liên quan đến thông tin cá nhân của những người có liên quan đến nội dung sẽ được loại bỏ hoặc xử lý. Ví dụ: _chú X gặp chú Y_, _anh X có đi làm không_,... Các trường hợp để tên riêng: Các nhân vật công chúng, nhân vật lịch sử, nhân vật hư cấu tiểu thuyết
 2. Chủ đề thu thập không giới hạn, các chủ đề như: xe cộ, kinh tế, chính trị, giáo dục, y tế,... là mảnh đất màu mỡ của việc tranh luận trên mạng xã hội và cũng là nguồn dữ liệu vô hạn về chính tả tiếng Việt - cả ngôn ngữ nói và ngôn ngữ viết, cả hàn lâm lẫn bình dân, cả từ ngữ thông dụng và phương ngữ.
 3. Khác với dữ liệu giàu ngữ cảnh \(rich context\) như Wiki spelling, Github typo, bộ dữ liệu VMDS lấy dữ liệu cơ bản từ các trang mạng xã hội \(facebook, youtube, zalo,...\), thương mại điện tử \(shopee, lazada, tiki, chợ tốt...\),... nơi mà dữ liệu ít ngữ cảnh hơn \(poor context\), tuy nhiên tần suất sai chính tả sẽ nhiều hơn.
 
