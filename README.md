@@ -24,10 +24,11 @@ Một số nguyên tắc thu thập dữ liệu tin tức trên mạng xã hội
 ## Các thành viên đóng góp dữ liệu thông qua form
 HiImsoLazy (530), Huy Phước (1)
 ## Trích dẫn
+### APA
 ```
 Thanh, H. (2024). VFND/VMDS-vietnamese-misspell-dataset-from-Social-media: VMDS version 0.0.1: 5100 cases (v0.0.1.005). Zenodo. https://doi.org/10.5281/zenodo.10938148
 ```
-
+### BibTex
 ```
 @software{thanh_h_2024_10938148,
   author       = {Thanh, H},
