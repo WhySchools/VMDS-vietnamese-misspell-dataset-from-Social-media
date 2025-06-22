@@ -22,7 +22,7 @@ Một số nguyên tắc thu thập dữ liệu tin tức trên mạng xã hội
 3. [Github Typo Corpus](https://github.com/mhagiwara/github-typo-corpus/issues): Dữ liệu tổng hợp các lỗi chính tả từ các commit trên Github của Masato Hagiwara and Masato Mita, cấu trúc tương tự như bộ Wiki, tuy nhiên tiếng Việt chỉ là một trong 15 ngôn ngữ (hình như chỉ có khoảng 40 cases là tiếng Việt), nhưng với kích thước của bộ dataset này phù hợp cho việc phát triển các ứng dụng đa ngôn ngữ
 
 ## Các thành viên đóng góp dữ liệu thông qua form
-HiImsoLazy (530), Huy Phước (1)
+HiImsoLazy (1130), Huy Phước (1)
 ## Trích dẫn
 ### APA
 ```
